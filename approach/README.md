@@ -14,6 +14,6 @@ description: >-
 [contribution-outcomes](contribution-outcomes/)
 {% endcontent-ref %}
 
-{% content-ref url="execution-process/" %}
-[execution-process](execution-process/)
+{% content-ref url="contribution-process/" %}
+[contribution-process](contribution-process/)
 {% endcontent-ref %}
