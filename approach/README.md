@@ -1,7 +1,7 @@
 ---
 description: >-
-  Outlining the approach the Web 3 Association will use to make contributions to
-  support and improve different web 3 ecosystems
+  Outlining how we will approach making contributions to support and improve
+  treasury systems across web 3 ecosystems
 ---
 
 # 💡 Approach
