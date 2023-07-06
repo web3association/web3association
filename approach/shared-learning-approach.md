@@ -26,7 +26,7 @@ There are numerous different web 3 ecosystems with treasury systems that also of
 
 **Difficulty in determining which solutions are working most effectively**
 
-Existing treasury solution builders will often have limited capacity to spend enough time looking at other treasury solutions due to the level of effort required to manage and improving their own treasury. Sufficient analysis is needed around the data and impact generated from different approaches to treasury solutions to confidently identify whether a certain approach is truly effective or not.
+Existing treasury solution builders often have limited capacity to spend time looking at other treasury solutions due to the level of effort required to understand any analyse these alternative approaches whilst also trying to build their own solution. Sufficient analysis is needed covering the data and impact generated from these different approaches to treasury solutions to more confidently identify which approaches are truly effective or not.
 
 
 
