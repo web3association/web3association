@@ -1,17 +1,14 @@
 ---
 description: >-
-  An initial draft overview looking at the different potential stages a learning
-  based process could adopt to most effectively support and improve web 3
-  ecosystems
+  Outlining the process that will be used to generate our intended contribution
+  outcomes
 ---
 
 # 🏃♂ Contribution Process
 
 The contribution process focuses on the order of execution for each of the contribution outcomes. Each step in this process is important for maximising the potential impact of the shared learning approach that is being adopted. In terms of [creating the right environment](creating-the-right-environment.md) for this process to operate most effectively some factors of importance and worth consideration will include impact alignment, collaboration, improving the execution process, increasing participation diversity and providing ongoing maintenance and support to any contribution outcomes.&#x20;
 
-
-
-
+<figure><img src="../../.gitbook/assets/contribution-process.jpg" alt=""><figcaption></figcaption></figure>
 
 ### **Knowledge resources (Short term)**
 
