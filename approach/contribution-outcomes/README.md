@@ -10,7 +10,7 @@ The following is a list of contribution outcomes that can be created to help wit
 
 
 
-### **1. Knowledge & Resources**
+### **1. Knowledge resources**
 
 
 
