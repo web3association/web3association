@@ -1,6 +1,6 @@
 # Table of contents
 
-* [ℹ About W3A](README.md)
+* [👋 About W3A](README.md)
 * [🎯 Focus](focus.md)
 * [💡 Approach](approach/README.md)
   * [🎓 Shared Learning Approach](approach/shared-learning-approach.md)
