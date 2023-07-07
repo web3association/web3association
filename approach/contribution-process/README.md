@@ -10,6 +10,8 @@ The contribution process focuses on the order of execution for each of the contr
 
 <figure><img src="../../.gitbook/assets/contribution-process.jpg" alt=""><figcaption></figcaption></figure>
 
+
+
 ### **Knowledge resources (Short term)**
 
 The usefulness and insights made available by any knowledge resources we create will ultimately determine how much impact the Web 3 Association will make on supporting and improving treasury systems. Any knowledge resources that we create will be revisited on an ongoing basis as new insights, data and feedback emerge. Knowledge resources are the most important contribution outcome for the Web 3 Association if we are to effectively achieve our goal of making the more impactful resources possible for learning about and improving treasury systems.
@@ -48,7 +50,7 @@ Once the focus area is better understood through research and analysis the next 
 
 ### **Open source software (Medium term)**
 
-As more knowledge resources are created and trends begin to emerge we might identify opportunities to develop open source software that will benefit a wide range of teams building treasury systems. It is not certain how often these opportunities will emerge. The key consideration will be looking at what existing open source software already exists in different ecosystems and then with that in mind then determining how widespread the impact would actually be from making any contribution efforts towards improving the availability of open source software for some or all of these ecosystems.
+As more knowledge resources are created and trends begin to emerge we might identify opportunities to develop open source software that will benefit a wide range of teams building treasury systems. It could be years until more effective solutions are established which would create the opportunity to create an open source reference implementation of that solution. The key consideration to make will be from looking at what existing open source software already exists in different ecosystems and then determining how widespread the impact would actually be for those ecosystems if certain open source software were to be developed.
 
 
 
