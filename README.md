@@ -17,7 +17,7 @@ description: Overview information about the Web 3 Association
 
 ⭐ **Mission**
 
-Accelerate the adoption of web 3 technology through the ongoing improvement of treasury systems so they are able to consistently achieve highly impactful outcomes.
+Accelerate the adoption of web 3 technology through supporting the ongoing improvement of treasury systems
 
 
 
