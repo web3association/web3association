@@ -29,7 +29,7 @@ Support existing teams across web 3 ecosystems with improving their treasury sys
 
 💡 [**Approach**](approach/)
 
-A shared learning approach will be adopted that focuses on collaboration between ecosystems and creating knowledge resources that can support and improve treasury systems across these ecosystems. Creating knowledge resources will involve identifying one focus area at a time, inviting collaborators to participate, conducting research and analysis and then making suggestions based upon those findings. Knowledge resources are the key focus and outcome produced from any contribution efforts. Over a longer time horizon there will also be opportunities to generate more impact in supporting and improving treasury systems by helping create open source software and supporting any standardisation efforts.
+Creating knowledge resources about treasury systems that are insightful and actionable for teams building treasury systems across web 3. A shared learning approach is being adopted that will focus on increasing the amount of collaboration and shared learnings for the benefit of all teams building solutions. Creating knowledge resources will start by identifying one focus area at a time, inviting collaborators to participate, conducting research and analysis and then making suggestions based upon those findings. Knowledge resources are the core focus and outcome from our contribution efforts. Over a longer time horizon there should also be opportunities for us to generate more impact for treasury systems by helping create open source software and supporting any standardisation efforts.
 
 
 
