@@ -1,8 +1,7 @@
 ---
 description: >-
-  Exploring how an approach of shared learning could more effectively help
-  existing teams with supporting and improving their treasury systems across web
-  3
+  Exploring how an approach focussed on shared learnings could be effective for
+  supporting and improving treasury systems
 ---
 
 # 🎓 Shared Learning
