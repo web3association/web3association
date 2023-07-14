@@ -1,16 +1,17 @@
 ---
 description: >-
-  Exploring how adopting a shared learning approach could effectively help with
-  supporting and improving solutions building across web 3 ecosystems
+  Exploring how an approach of shared learning could more effectively help
+  existing teams with supporting and improving their treasury systems across web
+  3
 ---
 
-# 🎓 Shared Learning Approach
+# 🎓 Shared Learning
 
 How can we increase the rate in which treasury systems are improved across web 3 ecosystems so that they create increasingly impactful outcomes that support and grow their ecosystems more effectively? What complimentary approaches could be integrated into an existing teams development process to help them iterate and improve their own solutions more quickly?
 
 
 
-A shared learning approach could help with answering these questions and potentially provide an effective path to increasing the adoption of web 3 technology through the adoption of an efficient and effective approach to improve treasury systems.
+Shared learning across the industry can help with answering these questions and potentially provide an effective path to increasing the adoption of web 3 technology through the adoption of an efficient and effective approach to improve treasury systems.
 
 
 
@@ -42,15 +43,15 @@ Without any external supportive structures and collaborators in place most treas
 
 
 
-### **Shared learning approach**
+### **Shared learning**
 
-<figure><img src="../.gitbook/assets/shared-learning-approach.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/shared-learning.jpg" alt=""><figcaption></figcaption></figure>
 
-A shared learning approach focuses on increasing the amount of available knowledge and resources available for teams to use when improving and iterating on their own treasury systems. The goal of a shared learning approach is to help maximise collaboration and shared learnings across a given industry. This helps increase the rate in which existing processes, protocols and applications can be improved and more widely adopted. Knowledge resources for treasury systems will focus on providing insights and actionable information for each ecosystem to more quickly identify ways they can more effectively distribute and manage their own treasuries. Focussing on collaboration and shared learning creates an opportunity to help the wider industry achieve these goals at a faster rate. A key goal for the knowledge resources created is that over time they become the industry preferred location to learn about treasury systems.
+A focus on shared learning means increasing the amount of available knowledge resources available for teams to use when improving and iterating on their own treasury systems. The goal of shared learning is to help maximise collaboration and any learnings made across the industry. This helps increase the rate in which existing treasury systems can be improved and more widely adopted. Knowledge resources will focus on providing insights and actionable information for each ecosystem so they can more quickly identify ways to improve their treasury system in being able to manage and distribute community assets. Focussing on collaboration and shared learning creates an opportunity to help the wider industry achieve their goals at a faster rate. Our goal is for our knowledge resources to eventually become the industry preferred location to learn about treasury systems.
 
 
 
-A shared learning approach offers a supportive structure for helping existing teams building treasury solutions. Contributors would directly collaborate with and help existing teams through the research, analysis and suggestions they generate that help with improving the knowledge available about treasury systems. The main [contribution outcomes ](contribution-outcomes/)of this shared learning approach is to create knowledge resources for the benefit of ecosystems building treasury solutions however there is also an opportunity to help with the development of open source software and supporting standardisation efforts over the long term.
+A group of contributors focussed on shared learning creates the opportunity for a supportive structure for helping existing teams building treasury solutions. Contributors would directly collaborate with and help existing teams through research, analysis and suggestions that focus on improving the knowledge available about treasury systems. The main [contribution outcomes ](contribution-outcomes/)of an approach focussing on shared learning is the creation of knowledge resources for the benefit of ecosystems building treasury solutions. Over the longer term there is also an opportunity to help with the development of open source software and supporting standardisation efforts.
 
 
 
@@ -60,7 +61,7 @@ A shared learning approach offers a supportive structure for helping existing te
 * **More cost effective** - Insightful and actionable information about treasury systems is beneficial for many blockchains and applications across web 3 ecosystems. This creates the opportunity for a shared learning approach to be highly cost effective for these ecosystems as the cost of these contributions can be split between each of the participating ecosystems. The full outcome of any resources created would then be available to the entire industry. The more that the costs for these types of contributions can be shared across many ecosystems the more efficient the overall industry becomes. Increasing this efficiency also helps each ecosystem in being able to direct more funding to other impactful initiatives rather than doing similar work in isolation.
 * **Reduce duplicated & wasted effort** - Each existing team in the industry won’t need to spend the same amount of time doing deep research and analysis if they can support an approach that efficiently creates those outcomes for them. Resources that increase the amount of knowledge available about treasury systems will help existing teams building treasury solutions be able to spend time on unsolved problems and avoid common pitfalls and mistakes. Reducing the amount of time teams need to research and analyse different approaches the more we can prevent the waste and duplication of efforts that yield similar outcomes. Quality knowledge resources can help teams identify effective solutions and promising areas to explore more efficiently than if they had to do that work themselves to arrive at these same conclusions.
 * **Inspire new solution approaches** - Resources that cover a wide range of potential ways that a treasury system could be approached can help with inspiring existing teams in finding new and novel ways to approach solving different problems. More experimentation is greatly beneficial to the wider industry as any outcomes can be recorded and shared across different ecosystems when iterating on their own treasury system.
-* **Increase collaboration** - A group of contributors creating knowledge resources for the wider industry about treasury systems would not be competing with existing teams building solutions. The shared learning approach is effective for aligning the incentive towards increasing the amount of collaboration between as many teams as possible to provide the more impact by creating higher quality resources. The higher the participation in this approach of improving the quality and availability of knowledge resources for treasury systems the faster that each team can iterate and improve their own solutions. Increasing the diversity of skills, backgrounds, values and cultures involved in the creation of these knowledge resources can help ensuring the outcomes are more thorough and of high quality. Feedback from many existing teams will also help with provide an effective path to iterate and improve resources and increase their overall impact.
+* **Increase collaboration** - A group of contributors creating knowledge resources for the wider industry about treasury systems would not be competing with existing teams building solutions. Ecosystems that financially support shared learning efforts help to align the incentives for increasing the amount of collaboration between as many teams as possible to create high quality resources that can generate ongoing impact for those ecosystems. The higher the participation is for this approach of improving the quality and availability of knowledge resources for treasury systems the faster that each team can iterate and improve their own solutions. Increasing the diversity of skills, backgrounds, values and cultures involved in the creation of these knowledge resources can help with ensuring the outcomes are more thorough and high quality. Feedback from many existing teams will also help with provide an effective path to iterate and improve resources and increase their overall impact.
 
 
 
@@ -76,7 +77,7 @@ A shared learning approach offers a supportive structure for helping existing te
 
 **Complimentary and supportive approach**
 
-A shared learning approach offers a complimentary and supportive structure to improve the knowledge and resources available around core focus area of treasury systems. Knowledge resources can be used across all web 3 ecosystems to help with improving their own treasury system. Incentivising shared learning at a foundational level can help better support existing teams who are building and learning about how to improve their own treasury system rather than working in isolation. A small capital allocation from different web 3 ecosystems towards increasing the amount of shared learning and knowledge available presents a large opportunity to increase the speed that web 3 ecosystems can collectively identify and adopt the more effective solutions. Quality knowledge, learnings and open source software that is readily available for usage and integration by existing project teams can help them to iterate more quickly and save time by reducing duplicated and wasted efforts.
+Contributors focussed on shared learnings will be able to provide a complimentary and supportive structure to improve the knowledge and resources available around core focus area of treasury systems. Knowledge resources can be used across all web 3 ecosystems to help with improving their own treasury system. Incentivising shared learning at a foundational level can help better support existing teams who are building and learning about how to improve their own treasury system rather than working in isolation. A small capital allocation from different web 3 ecosystems towards increasing the amount of shared learning and knowledge available presents a large opportunity to increase the speed that web 3 ecosystems can collectively identify and adopt the more effective solutions. Quality knowledge, learnings and open source software that is readily available for usage and integration by existing project teams can help them to iterate more quickly and save time by reducing duplicated and wasted efforts.
 
 
 
