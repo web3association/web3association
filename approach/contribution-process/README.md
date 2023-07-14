@@ -6,7 +6,7 @@ description: >-
 
 # 🏃♂ Contribution Process
 
-The following contribution process highlights the order of execution for each of the contribution outcomes. Each step in this process can be started and then repeated over time as more information and insights emerge to continue improving the resources available that help support and improve treasury systems. In terms of [creating the right environment](creating-the-right-environment.md) for this process to operate most effectively some factors of importance and worth consideration will include impact alignment, collaboration, improving the contribution process, increasing participation diversity and providing ongoing maintenance and support to any of the [contribution outcomes](../contribution-outcomes/).&#x20;
+The following contribution process outlines the main steps involved for creating the contribution outcomes of knowledge resources, open source software and standards. Each step in this process can be started and repeatedly revisited over time as more data and insights emerge. For this contribution process to be truly effective it will need have the right environment. Some factors worth consideration in [creating the right environment](creating-the-right-environment.md) will be directing focus towards impact alignment, collaboration, iterating on the contribution process, increasing participation diversity and providing ongoing maintenance and support to improve any of resources.
 
 <figure><img src="../../.gitbook/assets/contribution-process.jpg" alt=""><figcaption></figcaption></figure>
 
