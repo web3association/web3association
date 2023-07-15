@@ -44,8 +44,9 @@ The funding system helps the community execute any funding processes and distrib
 
 ### Initial contribution plan
 
-The initial contribution plan is to focus on the areas around understanding different funding initiatives and how they can be structured, assessed, measured and verified for progress, completion and the impact generated. Those selected areas of focus (also mentioned above) are:
+The initial contribution plan is to focus on the areas around understanding how to approach community prioritisation and the different funding initiatives types which include how they can be structured, assessed, measured and verified for progress, completion and the impact generated. Those selected areas of focus (mentioned above) are:
 
+* **Community prioritisation** - Identifying how a community can prioritise certain areas or problems that should be addressed in the ecosystem. Efforts here should look at the approaches that could be taken and the impact of doing prioritisation at different levels of specificity.
 * **Funding Initiative Types** - Understand the different ways in which funding could be distributed with each approaches merits, drawbacks and tradeoffs. Once a sufficient understanding is reached suggestions for exploration can be made and implementation suggestions for what data structures could effectively record the information needed for those funding initiative types.
 * **Proposal Assessment** - Exploring how proposals for each funding initiative type could be assessed to better determine their overall quality and their opportunity to create impact within the community.
 * **Tracking Progress & Completion** - Identify how proposals in each funding initiative type could be measured for progress such as milestones or progress reports and how regular that process should be for it to be effective at supporting the funded proposers whilst also checking the intended execution is actually being delivered and completed.
@@ -53,7 +54,7 @@ The initial contribution plan is to focus on the areas around understanding diff
 
 
 
-Each of these areas is closely connected with understanding the funding process itself and how funding can be distributed to different initiatives and how proposals funded under these initiatives can be better assessed, understood, compared, tracked and measured. The initial goal will be to create an initial set of knowledge resources that provide enough depth into these areas which can then continue to be iterated and improved as more data and insights is made available.
+Each of these areas is closely connected with understanding the funding process itself and how funding can be directed towards certain priorities and distributed to different initiative types. This then leads to exploring how proposals funded under these initiatives can be better assessed, understood, compared, tracked and measured. The initial goal will be to create an initial set of knowledge resources that provide enough depth into these areas to provide value to different ecosystems and then to iterate and improve them as more data and insights become available.
 
 
 
