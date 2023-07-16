@@ -10,5 +10,5 @@
   * [🏃♂ Contribution Process](approach/contribution-process/README.md)
     * [🪴 Creating The Right Environment](approach/contribution-process/creating-the-right-environment.md)
 * [🗺 Roadmap](roadmap.md)
-* [💚 Sponsors](sponsors/README.md)
-  * [🌱 2023 Sponsors](sponsors/2023-sponsors.md)
+* [💚 Sponsor A Contributor](sponsor-a-contributor/README.md)
+  * [🧑 George Lovegrove](sponsor-a-contributor/george-lovegrove.md)
