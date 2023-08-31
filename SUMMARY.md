@@ -10,8 +10,10 @@
   * [🏃♂ Contribution Process](approach/contribution-process/README.md)
     * [🪴 Creating The Right Environment](approach/contribution-process/creating-the-right-environment.md)
 * [🗺 Roadmap](roadmap.md)
-* [💚 Sponsor A Contributor](sponsor-a-contributor/README.md)
-  * [🧑 George Lovegrove](sponsor-a-contributor/george-lovegrove.md)
+* [💚 Sponsor a contributor](sponsor-a-contributor/README.md)
+  * [🧑 George Lovegrove](sponsor-a-contributor/george-lovegrove/README.md)
+    * [W3A contribution log](sponsor-a-contributor/george-lovegrove/w3a-contribution-log/README.md)
+      * [August 2023](sponsor-a-contributor/george-lovegrove/w3a-contribution-log/august-2023.md)
 
 ## Our Contributions
 

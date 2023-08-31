@@ -4,7 +4,7 @@ description: >-
   information about any funding sponsors
 ---
 
-# 💚 Sponsor A Contributor
+# 💚 Sponsor a contributor
 
 ## Contributor sponsorship overview
 
@@ -20,8 +20,8 @@ Once we have proven the our approach of focussing on shared learnings is an effe
 
 ## Current contributors
 
-{% content-ref url="george-lovegrove.md" %}
-[george-lovegrove.md](george-lovegrove.md)
+{% content-ref url="george-lovegrove/" %}
+[george-lovegrove](george-lovegrove/)
 {% endcontent-ref %}
 
 
