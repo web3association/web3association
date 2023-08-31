@@ -6,16 +6,6 @@ description: Overview information about the Web 3 Association
 
 <figure><img src=".gitbook/assets/w3association-title.png" alt=""><figcaption></figcaption></figure>
 
-
-
-:link: **Links**
-
-* :bird: [Twitter](https://twitter.com/W3Association)
-* 💬 [Telegram](https://t.me/W3Association)
-* :computer: [GitHub](https://github.com/web3association)
-
-
-
 ⭐ **Mission**
 
 Accelerate the adoption of web 3 technology through supporting the ongoing improvement of treasury systems
@@ -43,3 +33,9 @@ The initial focus is around foundational areas of the funding process such as ho
 :green\_heart: [**Sponsors**](sponsor-a-contributor/)
 
 The Web 3 Association will be looking for founding sponsors to help fund our initial year of contribution efforts to support and improve treasury systems across web 3 ecosystems.
+
+
+
+💬 [**Links & contact us**](links-and-contact-us.md)
+
+All of the online profiles for Web 3 Association and some contact information
