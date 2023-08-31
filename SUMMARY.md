@@ -14,6 +14,7 @@
   * [🧑 George Lovegrove](sponsor-a-contributor/george-lovegrove/README.md)
     * [W3A contribution log](sponsor-a-contributor/george-lovegrove/w3a-contribution-log/README.md)
       * [August 2023](sponsor-a-contributor/george-lovegrove/w3a-contribution-log/august-2023.md)
+* [💬 Contact us](contact-us.md)
 
 ## Our Contributions
 
