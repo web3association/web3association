@@ -6,15 +6,17 @@ description: Overview information about the Web 3 Association
 
 <figure><img src=".gitbook/assets/w3association-title.png" alt=""><figcaption></figcaption></figure>
 
+
+
 ⭐ **Mission**
 
-Accelerate the adoption of web 3 technology through supporting the ongoing improvement of treasury systems
+Fix the incentives through the evolution of treasuries.
 
 
 
 🎯 [**Focus**](focus.md)
 
-Support existing teams across web 3 ecosystems with improving their treasury systems through the creation and iterative improvement of knowledge resources. These resources will provide insights and actionable information for teams to use when iterating and improving their own treasury system. The Web 3 Association is looking to become the industry preferred destination to learn about treasury systems.
+Our focus is to support existing teams across web 3 ecosystems with improving their treasury systems through the creation and iterative improvement of knowledge resources. These resources will provide insights and actionable information for teams to use when iterating and improving their own treasury system. The Web 3 Association is looking to become the industry preferred destination to learn about Web 3 treasuries.
 
 
 
