@@ -7,7 +7,10 @@ description: Contributions for September 2023
 **Contributions this month**
 
 * Compared different disbursement approaches
-* Explored the tradeoffs of adopting an independent priority or execution process
+* Analysed the tradeoffs of adopting an independent priority or execution process
+* Discussed different impactful disbursement outcomes
+* Analysed the benefits of adopting knowledge systems for disbursement
+* Analysed different idea ownership approaches
 * Added some initial treasury suggestions based off the analysis so far
 
 
