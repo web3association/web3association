@@ -10,11 +10,11 @@
   * [🏃♂ Contribution Process](approach/contribution-process/README.md)
     * [🪴 Creating The Right Environment](approach/contribution-process/creating-the-right-environment.md)
 * [🗺 Roadmap](roadmap.md)
-* [💚 Sponsor a contributor](sponsor-a-contributor/README.md)
-  * [🧑 George Lovegrove](sponsor-a-contributor/george-lovegrove/README.md)
-    * [Contribution log](sponsor-a-contributor/george-lovegrove/w3a-contribution-log/README.md)
-      * [September 2023](sponsor-a-contributor/george-lovegrove/contribution-log/september-2023.md)
-      * [August 2023](sponsor-a-contributor/george-lovegrove/w3a-contribution-log/august-2023.md)
+* [👨👩👧👦 Contributors](contributors/README.md)
+  * [🧑 George Lovegrove](contributors/george-lovegrove/README.md)
+    * [Contribution log](contributors/george-lovegrove/contribution-log/README.md)
+      * [September 2023](contributors/george-lovegrove/contribution-log/september-2023.md)
+      * [August 2023](contributors/george-lovegrove/contribution-log/august-2023.md)
 * [💬 Links & contact us](links-and-contact-us.md)
 
 ## Our Contributions

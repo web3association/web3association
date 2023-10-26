@@ -26,8 +26,8 @@ I contributed towards the funding process from Cardano called [Project Catalyst]
 
 **Web 3 Association contributions**
 
-{% content-ref url="w3a-contribution-log/" %}
-[w3a-contribution-log](w3a-contribution-log/)
+{% content-ref url="contribution-log/" %}
+[contribution-log](contribution-log/)
 {% endcontent-ref %}
 
 
@@ -38,9 +38,3 @@ I contributed towards the funding process from Cardano called [Project Catalyst]
 * [Funding categories](../../approach/shared-learning-approach.md)
 
 {% embed url="https://youtu.be/tExyD9oJb9g" %}
-
-
-
-**Sponsors**
-
-Any sponsors will be listed here!
