@@ -13,6 +13,7 @@
 * [👨👩👧👦 Contributors](contributors/README.md)
   * [🧑 George Lovegrove](contributors/george-lovegrove/README.md)
     * [Contribution log](contributors/george-lovegrove/contribution-log/README.md)
+      * [October 2023](contributors/george-lovegrove/contribution-log/october-2023.md)
       * [September 2023](contributors/george-lovegrove/contribution-log/september-2023.md)
       * [August 2023](contributors/george-lovegrove/contribution-log/august-2023.md)
 * [💬 Links & contact us](links-and-contact-us.md)

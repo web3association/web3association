@@ -15,15 +15,6 @@ description: Contributions for September 2023
 
 
 
-**Upcoming contributions**
-
-* Apply for small grants across the industry
-* Add analysis regarding the importance of contributors for disbursement and disbursement process incentive approaches
-* Continue adding any further treasury suggestions
-* If there was any available time left we can analyse idea selection along with using an independent idea process
-
-
-
 **Contribution log**
 
 * Added disbursement resources

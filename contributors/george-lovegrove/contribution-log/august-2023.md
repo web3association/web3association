@@ -13,13 +13,6 @@ description: Contributions for August 2023
 
 
 
-**Upcoming contributions**
-
-* Approaches for disbursement will look at how Web 3 ecosystem could approach the disbursement process differently and the implications that can have on the voters and contributors.
-* Start initial discussions with existing ecosystems to find out how they are approaching their own disbursement process at the moment and in the future.
-
-
-
 **Contribution log**
 
 * Setup documentation website for general treasury knowledge resources - [treasuries.co](http://treasuries.co)
