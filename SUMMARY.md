@@ -4,7 +4,7 @@
 * [🎯 Focus](focus.md)
 * [💡 Approach](approach/README.md)
   * [🎓 Shared learning](approach/shared-learning-approach.md)
-  * [🤲 Contribution Outcomes](approach/contribution-outcomes/README.md)
+  * [🤲 Contribution outcomes](approach/contribution-outcomes/README.md)
     * [💻 Open source software overview](approach/contribution-outcomes/open-source-software-overview.md)
     * [📄 Standards overview](approach/contribution-outcomes/standards-overview.md)
   * [🏃♂ Contribution process](approach/contribution-process/README.md)
