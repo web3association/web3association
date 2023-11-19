@@ -26,7 +26,7 @@ Our core contribution outcome will be the creation of knowledge resources about 
 
 
 
-🗺️ [**Roadmap**](roadmap.md)
+🗺️ [**Roadmap**](roadmap/)
 
 The initial focus is around foundational areas of the funding process such as how funding gets directed to different funding initiatives. This initial focus includes looking at what funding initiative types and proposal structures can exist, how proposals can be effectively assessed, how funding initiatives can be tracked and measured and then also how the impact of those funding initiatives can be reviewed.
 
