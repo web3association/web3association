@@ -92,4 +92,4 @@ After creating further resources, making improvements and bringing together comm
 
 
 
-The above are just example more likely potential areas of focus, there are numerous other areas that could be relevant and that we might pursue in the future. We'll discover more about how we can generate the most impact for as many ecosystems as possible as we continue to execute and collaborate with different ecosystems.
+The above are just examples of more likely areas of focus, however there are numerous other areas that could be relevant and that we might pursue in the future. We'll discover more about how we can generate the most impact for as many ecosystems as possible as we continue to execute and collaborate with different ecosystems.
