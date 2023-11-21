@@ -16,7 +16,7 @@ Fix the incentives through the evolution of treasuries.
 
 🎯 [**Focus**](focus.md)
 
-Our focus is to support existing teams across web 3 ecosystems with improving their treasury systems. We achieve this through the creation and continued improvement of knowledge resources that help provide insights and actionable information for teams to use when improving their own treasury systems. The Web 3 Association is looking to create the industry preferred destination to learn about Web 3 treasuries.
+Our focus is to support existing teams across web 3 ecosystems with improving their treasury systems. We achieve this through the creation and continued improvement of knowledge resources that help provide insights and actionable information for teams to use when improving their own treasury systems. The Web 3 Association is looking to create the industry preferred destination to learn about Web 3 treasuries. We're looking to nurture and grow a collaborative effort to bring people together from across the industry to more effectively share learning about how treasuries can be approached to more effectively generate impact for their ecosystems.
 
 
 
@@ -28,13 +28,19 @@ Our core contribution outcome will be the creation of knowledge resources about 
 
 🗺️ [**Roadmap**](roadmap/)
 
-The initial focus is around foundational areas of the funding process such as how funding gets directed to different funding initiatives. This initial focus includes looking at what funding initiative types and proposal structures can exist, how proposals can be effectively assessed, how funding initiatives can be tracked and measured and then also how the impact of those funding initiatives can be reviewed.
+Our current roadmap plan is documented and updated as this changes over time. The other potential areas of focus are also listed to give a better idea of the areas of work that could be suitable in the future.
 
 
 
-:green\_heart: [**Sponsors**](contributors/)
+:family: [**Contributors**](contributors/)
 
-The Web 3 Association will be looking for founding sponsors to help fund our initial year of contribution efforts to support and improve treasury systems across web 3 ecosystems.
+List of the core contributors involved in the Web 3 Association initiative with any contribution history logs.
+
+
+
+:moneybag: [**Funding received**](funding-received/)
+
+Any funding received is detailed here and how it has been allocated. Funding currently is either used for core contribution efforts or supports community incentives.
 
 
 
