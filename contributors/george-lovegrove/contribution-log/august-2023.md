@@ -4,7 +4,7 @@ description: Contributions for August 2023
 
 # August 2023
 
-**Contributions this month**
+**Contributions this month** (Duration: Full month)
 
 * Setup the initial documentation websites on [treasuries.co](http://treasuries.co)
 * Added some initial overview resources talking about existing treasury systems and then comparing them with web 3 treasury systems covering areas such as the problems, differences, opportunities and concerns.

@@ -4,7 +4,7 @@ description: Contributions for September 2023
 
 # September 2023
 
-**Contributions this month**
+**Contributions this month** (Duration: Full month)
 
 * Compared different disbursement approaches
 * Analysed the tradeoffs of adopting an independent priority or execution process

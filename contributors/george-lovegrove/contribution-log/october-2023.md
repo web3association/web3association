@@ -4,7 +4,7 @@ description: Contributions for October 2023
 
 # October 2023
 
-**Contributions this month**
+**Contributions this month** (Duration: Full month)
 
 * Analysed how incentives could be used across each of the disbursement processes
 * Analysed how idea costs could be handled for when independent disbursement processes are used&#x20;
