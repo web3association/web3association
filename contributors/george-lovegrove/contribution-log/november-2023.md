@@ -13,6 +13,12 @@ description: Contributions for November 2023
 
 
 
+**Other activities**
+
+* Communicated with many Web3 ecosystems and offered support to help with improving their own disbursement processes!
+
+
+
 **Contribution log**
 
 * Added disbursement resources
