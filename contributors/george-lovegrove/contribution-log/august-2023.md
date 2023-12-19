@@ -7,7 +7,7 @@ description: Contributions for August 2023
 **Contributions this month** (Duration: Full month)
 
 * Setup the initial documentation websites on [treasuries.co](http://treasuries.co)
-* Added some initial overview resources talking about existing treasury systems and then comparing them with web 3 treasury systems covering areas such as the problems, differences, opportunities and concerns.
+* Added some initial overview resources talking about existing treasury systems and then comparing them with Web3 treasury systems covering areas such as the problems, differences, opportunities and concerns.
 * Created a high level operating process to help with thinking about how treasury systems operate and then applied this to disbursement to better think about its operating process.
 * Created further analysis about the disbursement operating process to cover areas such as rate of change, ranking of importance, delegation of disbursement decisions and complexity of the different operating processes involved in disbursement.
 

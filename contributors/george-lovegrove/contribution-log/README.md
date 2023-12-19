@@ -1,5 +1,5 @@
 ---
-description: Summary logs for each month of contribution for the Web 3 Association
+description: Summary logs for each month of contribution for the Web3 Association
 ---
 
 # Contribution log

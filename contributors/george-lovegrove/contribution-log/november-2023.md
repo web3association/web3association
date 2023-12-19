@@ -22,5 +22,5 @@ description: Contributions for November 2023
 **Contribution log**
 
 * Added disbursement resources
-  * [Disbursement decision approaches](http://127.0.0.1:5000/s/8L61e8ulVlk90t5mlQk1/disbursement-approaches/decision-approaches)
-  * [Disbursement documentation](http://127.0.0.1:5000/o/jOQu4b6VLDxaQsg2rVwG/s/8L61e8ulVlk90t5mlQk1/) - Rearranged existing resources (Older links may now not work!)
+  * [Disbursement decision approaches](https://app.gitbook.com/s/8L61e8ulVlk90t5mlQk1/disbursement-approaches/decision-approaches)
+  * [Disbursement documentation](https://app.gitbook.com/o/jOQu4b6VLDxaQsg2rVwG/s/8L61e8ulVlk90t5mlQk1/) - Rearranged existing resources (Older links may now not work!)

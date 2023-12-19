@@ -1,32 +1,32 @@
 ---
 description: >-
-  Covering why the Web 3 Association will solely focus on supporting and
-  improving treasury systems across web 3 ecosystems
+  Covering why the Web3 Association will solely focus on supporting and
+  improving treasury systems across Web3 ecosystems
 ---
 
 # 🎯 Focus
 
-The sole focus for the Web 3 Association will be the creation of knowledge resources that support the continued development and improvement of treasury systems across web 3 ecosystems.
+The sole focus for the Web3 Association will be the creation of knowledge resources that support the continued development and improvement of treasury systems across Web3 ecosystems.
 
 
 
 ### **Why focus on treasury systems?**
 
-Treasury systems help with the storage, management and distribution of assets owned by a community. Existing governments and institutions as well as many emerging web 3 projects are all examples of communities both large and small that rely on effective treasury systems to manage how funds are collected and distributed to most effectively benefit their communities.
+Treasury systems help with the storage, management and distribution of assets owned by a community. Existing governments and institutions as well as many emerging Web3 projects are all examples of communities both large and small that rely on effective treasury systems to manage how funds are collected and distributed to most effectively benefit their communities.
 
 Determining how to best manage and distribute treasury funding is difficult. There is a vast range of ways and purpose that community assets could be used to most benefit that community. Making group wide decisions is challenging, each decision of where to distribute funding can each have a number of different trade offs to consider.
 
-Web 3 ecosystems have an opportunity to improve and expand on the lessons learnt in existing centralised treasury systems used by existing governments, organisations and communities. Treasury systems adopted in web 3 ecosystems have the potential to become more effective at helping communities make impactful and effective decisions on how best to manage treasury assets. Creating effective treasury systems would help provide further evidence on the importance   of web 3 ecosystems and how they can be more effective than existing systems. Sensible monetary policies with effective treasury systems will create an increasingly attractive value proposition to entire societies looking for better ways for their countries and larger organisations to be more effectively or responsibly managed.
+Web3 ecosystems have an opportunity to improve and expand on the lessons learnt in existing centralised treasury systems used by existing governments, organisations and communities. Treasury systems adopted in Web3 ecosystems have the potential to become more effective at helping communities make impactful and effective decisions on how best to manage treasury assets. Creating effective treasury systems would help provide further evidence on the importance of Web3 ecosystems and how they can be more effective than existing systems. Sensible monetary policies with effective treasury systems will create an increasingly attractive value proposition to entire societies looking for better ways for their countries and larger organisations to be more effectively or responsibly managed.
 
 
 
 ### **The opportunity to improve treasury systems**
 
-Some simple math can helps to highlight the amount of opportunity there is to create impact through contributions that help improve treasury systems across web 3 ecosystems.
+Some simple math can helps to highlight the amount of opportunity there is to create impact through contributions that help improve treasury systems across Web3 ecosystems.
 
 The total market cap of cryptocurrencies has been increasing over recent years with a combined total market cap reaching values well above $1 trillion. Within that total market cap there are numerous blockchains, layer two solutions and applications that each have their own treasuries being managed to support the continued development and growth of their communities.
 
-Both [DeepDAO](https://deepdao.io/organizations) and [DefiLama](https://defillama.com/treasuries) are useful tools for finding the total value of some of these treasuries across web 3. Even a conservative estimated value from these sources highlight that there is well over $10 billion currently being managed in treasuries across these communities. Considering that these lists are not exhaustive, and do not include all blockchains and decentralized application projects, the actual total will be a fair amount higher.
+Both [DeepDAO](https://deepdao.io/organizations) and [DeFiLama](https://defillama.com/treasuries) are useful tools for finding the total value of some of these treasuries across Web3. Even a conservative estimated value from these sources highlight that there is well over $10 billion currently being managed in treasuries across these communities. Considering that these lists are not exhaustive, and do not include all blockchains and decentralized application projects, the actual total will be a fair amount higher.
 
 Keeping these total treasury valuations in mind we can then compare how much value would be generated by looking at what funding is distributed annually each year and then considering what the value of improvement would be by improving those treasuries by a certain percentage. Improvements could comprise of time savings in developing or managing treasury systems or improvements in how the funding process is operated to most effectively direct funds to the most impactful initiatives.
 
@@ -38,12 +38,12 @@ Keeping these total treasury valuations in mind we can then compare how much val
 
 
 
-These simple calculations help highlight the scale of the opportunity in continuously making even small improvements to web 3 ecosystem treasuries.
+These simple calculations help highlight the scale of the opportunity in continuously making even small improvements to Web3 ecosystem treasuries.
 
 Even a 1% distribution rate for treasuries that have a combined total value of $10 billion produces an opportunity of $1 million in value if improvements can be made that would on average improve the effectiveness of those treasuries by 1%.
 
-As the total value of treasuries increase this opportunity for improvement also greatly increases into something very meaningful. These improvements will be paramount for web 3 ecosystems to address due to the scale of the funding being released from different ecosystems as they grow. These treasury systems will need to be able to scale and still operate effectively in these conditions when the treasury value increases over time and more community funds are at stake.
+As the total value of treasuries increase this opportunity for improvement also greatly increases into something very meaningful. These improvements will be paramount for Web3 ecosystems to address due to the scale of the funding being released from different ecosystems as they grow. These treasury systems will need to be able to scale and still operate effectively in these conditions when the treasury value increases over time and more community funds are at stake.
 
-Overall, it is clear that even small incremental improvements to treasury systems represent a massive opportunity for web 3 ecosystems. Increasing the accuracy, speed and overall effectiveness of how communities can manage and distribute their treasuries will be vital for these ecosystems to reach their real potential.
+Overall, it is clear that even small incremental improvements to treasury systems represent a massive opportunity for Web3 ecosystems. Increasing the accuracy, speed and overall effectiveness of how communities can manage and distribute their treasuries will be vital for these ecosystems to reach their real potential.
 
-Treasuries from web 3 ecosystems will increasingly represent the economic beating heart of many emerging communities across the globe. The better that these treasury systems perform the more accurately the community will be able to select quality funding initiatives that produce impactful outcomes. The higher the impact is from any outcomes produced by these treasury systems the more valuable these ecosystems can become. More impact helps result in making a more valuable ecosystem and a more valuable treasury. Put simply, treasuries will be one of the most important flywheel growth levers for accelerating web 3 adoption.
+Treasuries from Web3 ecosystems will increasingly represent the economic beating heart of many emerging communities across the globe. The better that these treasury systems perform the more accurately the community will be able to select quality funding initiatives that produce impactful outcomes. The higher the impact is from any outcomes produced by these treasury systems the more valuable these ecosystems can become. More impact helps result in making a more valuable ecosystem and a more valuable treasury. Put simply, treasuries will be one of the most important flywheel growth levers for accelerating Web3 adoption.

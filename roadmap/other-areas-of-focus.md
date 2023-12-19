@@ -6,7 +6,7 @@ description: >-
 
 # 📗 Other areas of focus
 
-The following are some example areas of focus that can be researched and analysed to discover areas of improvement across the different existing solutions in web 3 ecosystems. This list is not exhaustive and will be updated over time to include more areas for consideration and further contribution.
+The following are some example areas of focus that can be researched and analysed to discover areas of improvement across the different existing solutions in Web3 ecosystems. This list is not exhaustive and will be updated over time to include more areas for consideration and further contribution.
 
 <figure><img src="../.gitbook/assets/treasury-focus-areas.jpg" alt=""><figcaption></figcaption></figure>
 

@@ -2,7 +2,7 @@
 description: An overview of what standards are and the benefits of adopting them
 ---
 
-# 📄 Standards Overview
+# 📄 Standards overview
 
 "A standard is an agreed-upon way of doing things. It can be a product specification, a process for producing a good or service, or a process for undertaking any other form of economic activity, such as supplying goods or services." - [Economic benefits of standards, BSI](https://www.bsigroup.com/en-GB/standards/benefits-of-using-standards/research-reports/).
 
@@ -58,7 +58,7 @@ Standards help with defining best practices, processes and guidelines to follow 
 
 **1. Difficulty in creating a common solution approaches**
 
-One of the big reasons that many people are interested in joining the web 3 movement is the diversity of ideas and ways communities are trying to solve different problems. Some markets and problem areas will have a higher amount of diversity than others in the problems that exist and the number of ways those problems can be solved. The more the diversity there is in the potential approaches that can be taken the more difficult it could become to create common standards. There may not be an optimal way to solve a given problem and the trade offs also may not be immediately clear. Plenty of observation, analysis and experimentation will be needed to create standards which are flexible to these scenarios that can handle and respond to the different trade offs. Standards could be have their complexity reduced and instead focus on one particular approach to solving a problem at a time. Multiple standards could be made to cover different approaches to solving a problem rather than trying to condense them into a single approach. Understanding the variations on these standards being created will help with better identifying and sharing any commonalities between the standards and further help reduce duplication where possible.
+One of the big reasons that many people are interested in joining the Web3 movement is the diversity of ideas and ways communities are trying to solve different problems. Some markets and problem areas will have a higher amount of diversity than others in the problems that exist and the number of ways those problems can be solved. The more the diversity there is in the potential approaches that can be taken the more difficult it could become to create common standards. There may not be an optimal way to solve a given problem and the trade offs also may not be immediately clear. Plenty of observation, analysis and experimentation will be needed to create standards which are flexible to these scenarios that can handle and respond to the different trade offs. Standards could be have their complexity reduced and instead focus on one particular approach to solving a problem at a time. Multiple standards could be made to cover different approaches to solving a problem rather than trying to condense them into a single approach. Understanding the variations on these standards being created will help with better identifying and sharing any commonalities between the standards and further help reduce duplication where possible.
 
 
 
