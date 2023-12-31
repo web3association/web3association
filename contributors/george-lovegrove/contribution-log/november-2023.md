@@ -6,10 +6,10 @@ description: Contributions for November 2023
 
 **Contributions this month** (Duration: 4 days)
 
-* Updated current roadmap
-* Improved the disbursement approaches analysis to narrow in on disbursement decision approaches
-* Started planning out contribution and incentive approaches for future analysis
-* Updated disbursement documentation structure
+* Roadmap - Updated current roadmap
+* Decision approaches - Improved the disbursement approaches analysis to narrow in on disbursement decision approaches
+* Contribution & incentive approaches - Started planning out contribution and incentive approaches for future analysis
+* Disbursement resources - Updated disbursement documentation structure
 
 
 
