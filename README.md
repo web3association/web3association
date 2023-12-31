@@ -16,7 +16,7 @@ Fix the incentives through the evolution of treasuries.
 
 🎯 [**Focus**](focus.md)
 
-Our focus is to support existing teams across Web3 ecosystems with improving their treasury systems. We achieve this through the creation and continued improvement of knowledge resources that help provide insights and actionable information for teams to use when improving their own treasury systems. The Web3 Association is looking to create the industry preferred destination to learn about Web3 treasuries. We're looking to nurture and grow a collaborative effort to bring people together from across the industry to more effectively share learning about how treasuries can be approached to more effectively generate impact for their ecosystems.
+Our focus is to support existing teams across Web3 ecosystems with improving their treasury systems. We achieve this through the creation and continued improvement of knowledge resources that help provide insights and actionable information for teams to use when improving their own treasury systems. The Web3 Association is looking to create the industry preferred destination to learn about Web3 treasuries. We're looking to nurture and grow a collaborative effort to bring people together from across the industry to more effectively share knowledge and learnings about how treasuries can be approached to more effectively generate impact.
 
 
 
