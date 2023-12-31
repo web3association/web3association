@@ -34,9 +34,6 @@ A set of resources have already been created around different disbursement and i
 
 **Areas of focus**
 
-* Disbursement approaches analysis - Further work can be done to improve the disbursement approaches analysis by going into more detail about the implications around how disbursement processes can be structured. Example areas that warrant deeper analysis include:
-  * Contributor flexibility - Initial participation complexity, contribution arrangement flexibility and ability to change future contribution efforts.
-  * Voting participation & decision complexity - Amount and complexity of information involved, voting comparison complexity, total time required to vote.
 * Types of ideas analysis - To better understand and explore how ideas are incentivised and executed through a disbursement process we can look at more example of types of ideas that can exist, both large and small, and look at how they could emerge such as through existing work efforts or feedback.
 * Idea based funding analysis - Idea focussed funding is currently the most prominent grants based funding approach used across many Web3 ecosystems. By applying some of the previous analysis we can better explore the key opportunities and issues that exist around idea based funding against other options.
 * Open source development analysis - Open source development is a vital part of Web3 ecosystems that are looking to make global and openly available protocols that can be adopted across many different use cases. Analysis can help to identify which disbursement approaches and incentive models could be most effective for funding open source development.
