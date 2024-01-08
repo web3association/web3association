@@ -6,9 +6,7 @@ description: >-
 
 # 🎓 Shared learning
 
-How can we increase the rate in which treasury systems are improved across Web3 ecosystems so that they create increasingly impactful outcomes that support and grow their ecosystems more effectively? What complimentary approaches could be integrated into an existing teams development process to help them iterate and improve their own solutions more quickly?
-
-
+How can we increase the rate in which treasury systems are improved across Web3 ecosystems so that they create increasingly impactful outcomes that support and grow their ecosystems more effectively? What complementary approaches could be integrated into an existing team's development process to help them iterate and improve their own solutions more quickly?
 
 Shared learning across the industry can help with answering these questions and potentially provide an effective path to increasing the adoption of Web3 technology through the adoption of an efficient and effective approach to improve treasury systems.
 
@@ -20,24 +18,24 @@ Shared learning across the industry can help with answering these questions and 
 
 **Time consuming to keep up to date with industry progress**
 
-There are many Web3 ecosystems that each have their own treasury to manage. As well as this there are also a number of projects within these ecosystems that are building their own solutions for managing and disbursing treasury assets. The vast number of projects that are building treasury systems in parallel makes it increasingly difficult for existing teams to have enough time to find out what is happening across the industry. Not having easy access to the progress being made in surrounding ecosystems can make it easier to miss insightful learnings and ideas about how to better approach solving important treasury problems.
+There are many Web3 ecosystems that each have a treasury to manage and disburse. Projects within these ecosystems also usually require their own solutions for managing and disbursing treasury assets. The vast number of ecosystems and projects that are building treasury systems in parallel makes it increasingly difficult for these teams to have enough time to find out what is happening across the industry. Not having easy access to the progress being made in surrounding ecosystems can make it easier to miss insightful learnings and ideas about how to better approach solving important treasury problems.
 
 
 
 **Difficulty in determining which solutions are working most effectively**
 
-Existing treasury solution builders often have limited capacity to spend time looking at other treasury solutions due to the level of effort required to understand and properly analyse these alternative approaches whilst also trying to build their own solutions. Sufficient analysis is needed to review the available data and the impact those treasuries are currently generating to more confidently identify which approaches are truly effective or not.
+Existing treasury solution builders will often have a limited amount of time to look at other treasury solutions across the industry due to the level of effort it would require to understand and properly analyse these alternative systems and approaches whilst also trying to build their own solutions. A meaningful amount of time is often needed to properly analyse the available data and determine the current impact that those treasuries are currently generating to more confidently identify which approaches might be actually effective or not.
 
 
 
 **Lost learnings from failed or pivoted projects**
 
-Treasury systems are complex and require ongoing iteration and improvement. Ideas can often be trialled and then discarded once the outcomes do not produce the desired result. As each ecosystem executes these experiments in parallel it will be easy for those learnings to not to be documented and get widely shared across the industry. A lack of available knowledge and learnings on what approaches haven’t worked for other ecosystems can easily result in different ecosystems adopting a similar and ineffective approach due to the lack of available evidence about the issues that certain approaches may have.\
+Treasury systems are complex and require ongoing iteration and improvement. Ideas can often be trialled and then discarded once the outcomes do not produce the desired result. As each ecosystem executes these experiments in parallel it will be easy for those learnings to get lost by not being documented. A lack of available learnings on what approaches haven’t worked for other ecosystems can lead to situations where different ecosystems end up adopting a similar and ineffective approach due to the lack of available evidence that covers the issues these certain approaches may have.\
 
 
 **Isolated learning & duplicated efforts**
 
-Without any collaborative and supportive structures in place most treasury teams could end up learning in isolation on how to improve and iterate on their own solutions. A lack of external collaborators decreases the amount of potential skill sets and thought diversity that could have helped with more efficiently identifying effective solutions for addressing different treasury problems. There is also no direct incentive for competing ecosystems to collaborate with other projects. Less collaboration results in a reduced flow of information and insights between these ecosystems. This lack of collaboration comes at the detriment of the wider industry as it means each ecosystem can lack insightful information to make well informed decisions on how to improve their own treasury systems. Efforts can easily be duplicated across multiple ecosystems concerning research, analysis, development and experimentation of new approaches if every team is working on their treasury systems in isolation.
+Without any collaborative and supportive structures in place most treasury teams could end up learning in isolation on how to improve and iterate on their own solutions. A lack of external collaboration decreases the amount of skill and thought diversity that could have helped with more identifying effective solutions for solving different treasury problems. There is not a large incentive for competing ecosystems to collaborate and support other ecosystems. Less collaboration across the industry results in a reduced flow of information and insights between the teams working on similar treasury problems. Development of treasury systems in isolation due to less collaboration can result in efforts being more easily duplicated across multiple ecosystems concerning research, analysis, development and experimentation of new approaches.
 
 
 
@@ -65,7 +63,7 @@ A group of contributors focussed on shared learning creates the opportunity for 
 
 **Potential issues**
 
-* **Collaboration time cost** - Existing communities and projects may not have much time to give and receive feedback on different problem areas they are working on. This could make it difficult to create knowledge resources with the same detail of information. Although this could be a an issue it is not a blocker for making quality knowledge resources. Most data about the outcomes of many treasury systems is publicly available meaning it wouldn't prevent any contributors from being able to identify the approaches being used and what relevant insights and data points exist that can help identify effective solution approaches.
+* **Collaboration time cost** - Existing communities and projects may not have much time to give and receive feedback on different problem areas they are working on. This could make it difficult to create knowledge resources with the same detail of information. Although this could be an issue it is not a blocker for making quality knowledge resources. Most data about the outcomes of many treasury systems is publicly available meaning it wouldn't prevent any contributors from being able to identify the approaches being used and what relevant insights and data points exist that can help identify effective solution approaches.
 
 
 
@@ -73,9 +71,9 @@ A group of contributors focussed on shared learning creates the opportunity for 
 
 
 
-**Complimentary and supportive approach**
+**Complementary and supportive approach**
 
-Contributors focussed on shared learnings will be able to provide a complimentary and supportive structure to improve the knowledge and resources available around core focus area of treasury systems. Knowledge resources can be used across all Web3 ecosystems to help with improving their own treasury system. Incentivising shared learning at a foundational level can help better support existing teams who are building and learning about how to improve their own treasury system rather than working in isolation. A small capital allocation from different Web3 ecosystems towards increasing the amount of shared learning and knowledge available presents a large opportunity to increase the speed that Web3 ecosystems can collectively identify and adopt the more effective solutions. Quality knowledge, learnings and open source software that is readily available for usage and integration by existing project teams can help them to iterate more quickly and save time by reducing duplicated and wasted efforts.
+Contributors focussed on shared learning will be able to provide a complimentary and supportive structure to improve the knowledge and resources available around the focus area of treasury systems. Knowledge resources can be used across all Web3 ecosystems to help with improving their own treasury system. Incentivising shared learning at a foundational level can help better support existing teams who are building and learning about how to improve their own treasury system rather than working in isolation. A small capital allocation from different Web3 ecosystems towards increasing the amount of shared learning and knowledge available presents a large opportunity to increase the speed that Web3 ecosystems can collectively identify and adopt the more effective solutions. Quality knowledge, learnings and open source software that is readily available for usage and integration by existing project teams can help them to iterate more quickly and save time by reducing duplicated and wasted efforts.
 
 
 

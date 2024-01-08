@@ -12,7 +12,7 @@ The following contribution outcomes are how the Web3 Association intend to help 
 
 ## **Knowledge resources**
 
-The creation and improvement of knowledge resources is the main outcome to expect from most of our contribution efforts. Resources would be constantly be reviewed, iterated and improved over time as new information and insights become available.
+The creation and improvement of knowledge resources is the main outcome to expect from most of our contribution efforts. Resources will constantly be reviewed, iterated and improved over time as new information and insights become available.
 
 
 
@@ -58,7 +58,7 @@ The [benefits of open source software](https://www.notion.so/o/jOQu4b6VLDxaQsg2r
 
 * Technical specifications - Technical specifications are worth consideration when solutions emerge that effectively solve certain problems. Drafting a technical specification will revolve around defining each part of the system or process and its purpose. These specifications could be used by teams building similar solutions who could then implement any available technical specifications that match what the type of solution they are looking to build.
 * Tools & libraries - Open source tools or libraries can be created to help address common problems and can simplify the development process for teams that build their solutions with them. An example Web3 related software tool could be one that helps to create or read transactions from the blockchain. Common problem patterns that exist across different treasury systems could also benefit from open source tooling that addresses these problems and then can be integrated into different treasury solutions.
-* Reference implementations - As effective solutions emerge for solving different problem areas an open source reference implementation can be made to help new and existing teams in building their own solution by being able to adopt and integrate an open source example. Making reference implementations will be more effective when there is already an increasing alignment around what solutions are truly at solving different problems. The more popular a solution approach is the larger the opportunity is that a wide range of teams would be interested in adopting an open source project into their own solution.
+* Reference implementations - As effective solutions emerge for solving different problem areas an open source reference implementation can be made to help new and existing teams in building their own solution by being able to adopt and integrate an open source example. Making reference implementations will be more effective when there is already an increasing alignment around what solutions are truly at solving different problems. The more popular a solution approach is, the larger the opportunity is that a wide range of teams would be interested in adopting an open source project into their own solution.
 
 
 
@@ -70,7 +70,7 @@ The [benefits of adopting open source software](open-source-software-overview.md
 
 ## **Standards**
 
-Standards are an important north star goal to help with development and adoption of important areas in Web3 ecosystems. Although this is may be an important goal, establishing new standards could be very challenging. Standards require a thorough understanding of a problem area, the identification and development of an effective solution to solves those problems and then sufficient evidence, usually through real world usage and adoption, to demonstrate that a given solution is both suitable and actually becoming a standardised way of solving those problems.
+Standards are an important north star goal to help with development and adoption of important areas in Web3 ecosystems. Although this may be an important goal, establishing new standards could be very challenging. Standards require a thorough understanding of a problem area, the identification and development of an effective solution to solve those problems and then sufficient evidence, usually through real world usage and adoption, to demonstrate that a given solution is both suitable and actually becoming a standardised way of solving those problems.
 
 
 
