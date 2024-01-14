@@ -34,7 +34,6 @@ A set of resources have already been created around the different disbursement a
 
 **Areas of focus**
 
-* Improve existing disbursement approaches - Some of the existing approaches analysis can be improved with more consideration towards the importance of enabling contribution flexibility so that contributors are more easily able to align their efforts with what will generate the most impact for an ecosystem.
 * Impact measuring approaches - Adding another disbursement approach resource that compares how impact could be measured across the disbursement process to determine which approaches might be the most suitable and feasible for Web3 ecosystems to consider.
 * Types of ideas analysis - To better understand and explore how ideas are incentivised and executed through a disbursement process we can look at more examples of types of ideas that can exist, both large and small, and look at how they could emerge such as through existing work efforts or feedback.
 * Open source development analysis - Open source development is a vital part of Web3 ecosystems that are looking to make global and openly available protocols that can be adopted across many different use cases. Analysis can help to identify which disbursement approaches and incentive models could be most effective for funding open source development.
