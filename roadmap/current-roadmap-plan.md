@@ -34,11 +34,11 @@ A set of resources have already been created around the different disbursement a
 
 **Areas of focus**
 
-* Impact measuring approaches - Adding another disbursement approach resource that compares how impact could be measured across the disbursement process to determine which approaches might be the most suitable and feasible for Web3 ecosystems to consider.
 * Types of ideas analysis - To better understand and explore how ideas are incentivised and executed through a disbursement process we can look at more examples of types of ideas that can exist, both large and small, and look at how they could emerge such as through existing work efforts or feedback.
 * Open source development analysis - Open source development is a vital part of Web3 ecosystems that are looking to make global and openly available protocols that can be adopted across many different use cases. Analysis can help to identify which disbursement approaches and incentive models could be most effective for funding open source development.
 * Incentive attachment analysis - Looking at the implications and differences that occur when the incentive is attached to different areas within Web3 ecosystems and how that could impact the behaviours and outcomes of the ecosystem. For instance how do the incentives impact an ecosystem when they are attached to the infrastructure, protocol or application layers? How do these differences align or misalign the incentives? What conflicts could occur?
 * Suggestions - New suggestions as well as overhauling our existing ones will help with exploring what the most promising disbursement approaches are that treasury teams could further explore to help with generating more impactful outcomes.
+* Articles & video content - Making real life comparisons with existing systems and Web3 ecosystems to reflect more on what differences, similarities and opportunities for emerging treasury systems.
 
 These pieces of analysis and any suggestions will be shared across different communities to receive feedback where community incentives will also be used to help with promoting suggested improvements to the resources created. Turning some of these resources into video content will also be another way we can help with articulating the different factors involved in the different disbursement approaches or incentive mechanisms.
 
