@@ -2,7 +2,7 @@
 
 🔗 **Links**
 
-* :bird: [Twitter](https://twitter.com/W3Association)
+* :heavy\_multiplication\_x: [X](https://twitter.com/W3Association)
 * :computer: [GitHub](https://github.com/web3association)
 * 💬  [Telegram](https://t.me/W3Association)
 
