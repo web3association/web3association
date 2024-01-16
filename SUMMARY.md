@@ -23,7 +23,7 @@
 * [💰 Funding received](funding-received/README.md)
   * [👤 Contributor funding](funding-received/contributor-funding.md)
   * [👨👩👧👦 Community incentive funding](funding-received/community-incentive-funding.md)
-* [💬 Links & contact](links-and-contact-us.md)
+* [💬 Links & contact information](links-and-contact-information.md)
 
 ## Our Contributions
 

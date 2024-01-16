@@ -44,6 +44,6 @@ Any funding received is detailed here and how it has been allocated. Funding cur
 
 
 
-💬 [**Links & contact information**](links-and-contact-us.md)
+💬 [**Links & contact information**](links-and-contact-information.md)
 
 All of the online profiles for Web3 Association and some contact information
