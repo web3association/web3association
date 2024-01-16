@@ -6,11 +6,11 @@ description: >-
 
 # 🎯 Focus
 
-The sole focus for the Web3 Association will be the creation of knowledge resources that support the continued development and improvement of treasury systems across Web3 ecosystems.
+The sole focus for the Web3 Association will be the creation of educational resources and content that supports the continued development and improvement of treasury systems across Web3 ecosystems.
 
 
 
-### **Why focus on treasury systems?**
+## **Why focus on treasury systems?**
 
 Treasury systems help with the storage, management and distribution of assets owned by a community. Existing governments and institutions as well as many emerging Web3 projects are all examples of communities both large and small that rely on effective treasury systems to manage how funds are collected and distributed to most effectively benefit their communities.
 

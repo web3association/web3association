@@ -6,13 +6,13 @@ description: >-
 
 # 🤲 Contribution outcomes
 
-The following contribution outcomes are how the Web3 Association intend to help support and improve treasury systems. Knowledge resources are the main contribution outcome that is a main core focus over the short and long term. As treasury systems improve and more knowledge resources are created the other areas of contribution could then also include helping with developing open source software and the creation of standards.
+The following contribution outcomes are how the Web3 Association intend to help support and improve treasury systems. Educational resources are the main contribution outcome that is a main core focus over the short and long term. As treasury systems improve and more educational resources are created the other areas of contribution could then also include helping with developing open source software and the creation of standards.
 
 
 
-## **Knowledge resources**
+## **Educational resources**
 
-The creation and improvement of knowledge resources is the main outcome to expect from most of our contribution efforts. Resources will constantly be reviewed, iterated and improved over time as new information and insights become available.
+The creation and improvement of educational resources is the main outcome to expect from most of our contribution efforts. Resources will constantly be reviewed, iterated and improved over time as new information and insights become available.
 
 
 

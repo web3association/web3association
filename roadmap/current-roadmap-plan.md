@@ -18,9 +18,9 @@ The outcomes from both these initiatives will help with identifying some of the 
 
 
 
-<figure><img src="../.gitbook/assets/knowledge-resources.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/educational-resources.png" alt=""><figcaption></figcaption></figure>
 
-A set of resources have already been created around the different disbursement approaches that teams building treasuries could consider. We’re looking to further explore and deep dive into this area to perfect these resources and expand on this work.
+A number of educational resources have already been created around the different disbursement approaches that teams building treasuries could consider. We’re looking to further explore and deep dive into this area to perfect these resources and expand on this work.
 
 
 

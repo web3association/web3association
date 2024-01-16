@@ -15,7 +15,7 @@ description: Contributions for August 2023
 
 **Contribution log**
 
-* Setup documentation website for general treasury knowledge resources - [treasuries.co](http://treasuries.co)
+* Setup documentation website for general treasury educational resources - [treasuries.co](http://treasuries.co)
 * Added treasuries resources
   * [Definition, purpose & responsibilities](https://docs.treasuries.co/treasuries/definition-purpose-and-responsibilities)
   * [Functional processes](https://docs.treasuries.co/treasuries/functional-processes)
@@ -25,7 +25,7 @@ description: Contributions for August 2023
   * [Opportunities & concerns](https://docs.treasuries.co/web-3-treasuries/opportunities-and-concerns)
   * [Stakeholders](https://docs.treasuries.co/web-3-treasuries/stakeholders)
   * [Operating process](https://docs.treasuries.co/web-3-treasuries/operating-process)
-* Setup documentation for disbursement knowledge resources - [disbursement.treasuries.co](https://disbursement.treasuries.co/)
+* Setup documentation for disbursement educational resources - [disbursement.treasuries.co](https://disbursement.treasuries.co/)
 * Added disbursement resources
   * [Disbursement operating process](https://disbursement.treasuries.co/disbursement-process/disbursement-operating-process)
   * [Disbursement process rate of change](https://disbursement.treasuries.co/disbursement-process/disbursement-operating-process/disbursement-process-rate-of-change)

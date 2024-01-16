@@ -1,7 +1,7 @@
 ---
 description: >-
   Outlining the approach, contribution outcomes and process that will be adopted
-  to support and improve treasury systems across web 3 ecosystems
+  to support and improve treasury systems across Web3 ecosystems
 ---
 
 # 💡 Approach
