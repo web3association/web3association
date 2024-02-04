@@ -36,7 +36,8 @@ A number of educational resources have already been created around the different
 
 * Open source contributors industry suggestion - Based on the completed disbursement analysis there is an industry wide opportunity to experiment with a contributor focused disbursement process that could be simple and effective for Web3 ecosystems. A proposal will help to highlight this opportunity and how we could support this experiment.
 * Self sovereign identity opportunities - Digital identities are an emerging technology that have a large potential to give individuals more ownership and control over their personal and digital information. A number of opportunities can be explored for how this technology could be integrated and used in a Web3 ecosystems disbursement process.
-* Incentive attachment analysis - Exploring the implications and differences that occur when the incentive get attached to different areas within Web3 ecosystems and how that could impact the behaviours and outcomes of the ecosystem. For instance how do the incentives impact an ecosystem when they are attached to the infrastructure, protocol or application layers? How do these differences align or misalign the incentives? What conflicts could occur?
+
+
 
 These pieces of analysis and any suggestions will be shared across different communities to receive feedback where community incentives will also be used to help with promoting suggested improvements to the resources created.
 
