@@ -26,7 +26,7 @@
   * [👨👩👧👦 Community incentive funding](funding-received/community-incentive-funding.md)
 * [💬 Links & contact information](links-and-contact-information.md)
 
-## Our Contributions
+## Resources
 
 * [Treasuries](https://app.gitbook.com/o/jOQu4b6VLDxaQsg2rVwG/s/qIN4B3DGHPqKOl7e6VuV/)
 * [Disbursement](https://app.gitbook.com/o/jOQu4b6VLDxaQsg2rVwG/s/8L61e8ulVlk90t5mlQk1/)
