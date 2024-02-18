@@ -6,10 +6,6 @@ description: >-
 
 # 🪴 Creating the right environment
 
-To create quality outcomes that benefit Web3 ecosystems the factors that will help create the right environment for a shared learning approach can be considered.
-
-
-
 **Impact based alignment**
 
 Contributors working under a shared learning approach will operate more effectively if they are strongly aligned to create the most impact possible. Incentives will be one area that is important in achieving this by ensuring the incentive is sufficient for the skill sets needed and that the responsibilities of those contributors is directly associated with producing the right outcomes that generate the most impact. A shared learning approach will thrive more effectively with a more collaborative environment. Due to this, part of periodically reflecting on impact based alignment will be determining whether the incentives used are encouraging more collaboration to create impactful outcomes or more competition? Another approach for consideration to help with increasing the amount of impact based alignment could be the introduction of a bonus incentives model to reward contributors who make highly impactful work. The intention here would be to even further incentivise people to identify and contribute towards high value areas of work. Contributors that most effectively help with increasing the rate of learning, collaboration between ecosystems and amount of knowledge and resources made available should be sufficiently compensated and rewarded for doing so. Ongoing consideration will also need to be placed on what financial and non financial incentives are effective in helping promote more impactful outcomes under a shared learning approach. Factors that influence how much impact is generated will have a direct influence on the return on investment for ecosystems supporting a shared learning approach so ongoing iteration and focus on this area will be needed.
