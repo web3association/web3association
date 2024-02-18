@@ -16,7 +16,8 @@ The following are some example areas of focus that can be researched and analyse
 
 Exploring the ways an ecosystem's treasury could become sustainable over the long term through different sources of income that can then be used to help address ecosystem priorities and support an ecosystem's operation.
 
-* **Funding Sources** - Exploring what different income streams could help grow a communities treasury such as protocol taxation, services or donations. What kind of funding sources exist and which ones are currently working the most effectively?
+* **Income approaches** - A Web3 ecosystems network could receive income from a number of different sources, each of these approaches can be important for helping an ecosystem grow or become sustainable over the long term.
+* **Taxation approaches** - Looking at the different approaches that could be used for network transaction fees.
 
 
 
