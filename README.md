@@ -4,7 +4,7 @@ description: Overview information about the Web3 Association
 
 # 👋 About W3A
 
-<figure><img src=".gitbook/assets/web3association-title.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/web3-association-title.png" alt=""><figcaption></figcaption></figure>
 
 
 
