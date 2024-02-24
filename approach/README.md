@@ -6,8 +6,8 @@ description: >-
 
 # 💡 Approach
 
-{% content-ref url="shared-learning-approach.md" %}
-[shared-learning-approach.md](shared-learning-approach.md)
+{% content-ref url="shared-learning.md" %}
+[shared-learning.md](shared-learning.md)
 {% endcontent-ref %}
 
 {% content-ref url="contribution-outcomes/" %}

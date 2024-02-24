@@ -35,6 +35,6 @@ I contributed towards the funding process from Cardano called[ Project Catalyst]
 **Previous contributions**
 
 * [Funding categorisation analysis](https://docs.catalystcontributors.org/funding-categorisation-analysis/)
-* [Funding categories](../../approach/shared-learning-approach.md)
+* [Funding categories](../../approach/shared-learning.md)
 
 {% embed url="https://youtu.be/tExyD9oJb9g" %}

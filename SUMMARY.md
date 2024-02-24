@@ -3,7 +3,7 @@
 * [👋 About W3A](README.md)
 * [🎯 Focus](focus.md)
 * [💡 Approach](approach/README.md)
-  * [🎓 Shared learning](approach/shared-learning-approach.md)
+  * [🎓 Shared learning](approach/shared-learning.md)
   * [🤲 Contribution outcomes](approach/contribution-outcomes/README.md)
     * [💻 Open source software overview](approach/contribution-outcomes/open-source-software-overview.md)
     * [📄 Standards overview](approach/contribution-outcomes/standards-overview.md)
