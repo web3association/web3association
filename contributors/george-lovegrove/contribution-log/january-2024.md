@@ -13,7 +13,7 @@ description: Contributions for January 2024
 * Idea cost approaches improvements - Improved analysis and visualisation of comparisons made between different idea cost approaches
 * Suggestions improvements - Overhauled the suggestions resources to include the main suggestions that have come out of the disbursement analysis and also listed a number of considerations that can be made when creating a disbursement process.
 * Updates to all resources - Improved information structure and wording across many resources.&#x20;
-* Website - Added two simple informational website overviews
+* Websites - Added two simple informational website overviews
 * Design - Added some documentation page headers
 * Analytics - Added Google analytics across GitBook and website
 
