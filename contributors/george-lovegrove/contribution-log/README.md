@@ -6,6 +6,10 @@ description: Summary logs for each month of contribution for the Web3 Associatio
 
 ## 2024
 
+{% content-ref url="june-2024.md" %}
+[june-2024.md](june-2024.md)
+{% endcontent-ref %}
+
 {% content-ref url="may-2024.md" %}
 [may-2024.md](may-2024.md)
 {% endcontent-ref %}
