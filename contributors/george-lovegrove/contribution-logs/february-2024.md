@@ -4,7 +4,11 @@ description: Contributions for February 2024
 
 # February 2024
 
-**Contributions this month** (Duration: Full month)
+**Contribution duration** - Full month
+
+
+
+## Overview
 
 * Misaligned, partially aligned and fully aligned incentives - Exploring the differences between misaligned, partially aligned & fully aligned incentives.
 * Project token vs base network circular economies - Looking at how the positioning of circular economies can have a large impact on the incentives within an ecosystem.
@@ -16,15 +20,28 @@ description: Contributions for February 2024
 
 
 
-**Contribution log**
+## Contribution outputs
 
-* Treasury resources
-  * [Misaligned, partially aligned and fully aligned incentives](https://docs.treasuries.co/incentives/misaligned-partially-aligned-and-fully-aligned-incentives)
-  * [Project token vs base network circular economies](https://docs.treasuries.co/incentives/project-token-vs-base-network-circular-economies)
-  * [Treasury funding responsibilities](https://docs.treasuries.co/web3-treasuries/funding-responsibilities)&#x20;
-* Disbursement resources
-  * [Self sovereign identity opportunities](https://disbursement.treasuries.co/contributors/self-sovereign-identity-opportunities)&#x20;
-* Contributor resources
-  * [Open source contributor funding process proposal](https://docs.contributors.org/proposal/open-source-contributors)
-* Added website
-  * [contributors.org](https://contributors.org)
+
+
+**Documents**
+
+Treasury resources
+
+* [Misaligned, partially aligned and fully aligned incentives](https://docs.treasuries.co/incentives/misaligned-partially-aligned-and-fully-aligned-incentives)
+* [Project token vs base network circular economies](https://docs.treasuries.co/incentives/project-token-vs-base-network-circular-economies)
+* [Treasury funding responsibilities](https://docs.treasuries.co/web3-treasuries/funding-responsibilities)&#x20;
+
+Disbursement resources
+
+* [Self sovereign identity opportunities](https://disbursement.treasuries.co/contributors/self-sovereign-identity-opportunities)&#x20;
+
+Contributor resources
+
+* [Open source contributor funding process proposal](https://docs.contributors.org/proposal/open-source-contributors)
+
+
+
+**Systems & operation**
+
+* [contributors.org](https://contributors.org) - Setup overview page and GitBook documentation

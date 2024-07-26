@@ -4,7 +4,11 @@ description: Contributions for March 2024
 
 # March 2024
 
-**Contributions this month** (Duration: Full month)
+**Contribution duration** - Full month
+
+
+
+## Overview
 
 * Current funding landscape video - Added a video covering contributor proposal content
 * Tech comparison with Web3 video - Added a video covering contributor proposal content
@@ -16,14 +20,29 @@ description: Contributions for March 2024
 
 
 
-**Contribution log**
+## Contribution outputs
 
-* Income resources
-  * [Income approaches](https://income.treasuries.co/approaches/income-approaches)
-  * [Transaction fee approaches](https://income.treasuries.co/approaches/transaction-fee-approaches)
-* Added resource page
-  * [income.treasuries.co](https://income.treasuries.co)
-* Videos
-  * [Current funding landscape](https://youtu.be/ZWo9qNm3mvs)
-  * [Tech comparison with Web3](https://youtu.be/f3fP2bjf6rY)
-  * [Open source contributor funding](https://youtu.be/NHKEMhQJ9d4)
+
+
+**Documents**
+
+Income resources
+
+* [Income approaches](https://income.treasuries.co/approaches/income-approaches)
+* [Transaction fee approaches](https://income.treasuries.co/approaches/transaction-fee-approaches)
+
+
+
+**Videos**
+
+Contributor proposal videos
+
+* [Current funding landscape](https://youtu.be/ZWo9qNm3mvs)
+* [Tech comparison with Web3](https://youtu.be/f3fP2bjf6rY)
+* [Open source contributor funding](https://youtu.be/NHKEMhQJ9d4)
+
+
+
+**Systems & operation**
+
+* [income.treasuries.co](https://income.treasuries.co) - Setup GitBook resource page

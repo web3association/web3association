@@ -1,8 +1,8 @@
 ---
-description: Summary logs for each month of contribution for the Web3 Association
+description: Recording of any contribution outputs and efforts in each month
 ---
 
-# Contribution log
+# Contribution logs
 
 ## 2024
 

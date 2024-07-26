@@ -26,8 +26,8 @@ I contributed towards the funding process from Cardano called[ Project Catalyst]
 
 **Web3 Association contributions**
 
-{% content-ref url="contribution-log/" %}
-[contribution-log](contribution-log/)
+{% content-ref url="contribution-logs/" %}
+[contribution-logs](contribution-logs/)
 {% endcontent-ref %}
 
 
