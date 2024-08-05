@@ -27,7 +27,8 @@ Beyond contributor funding processes we are also interested in supporting other 
 A number of educational resources have already been created:
 
 * [docs.treasuries.co](http://docs.treasuries.co)
-* [disbursement.treasuries.co](http://disbursement.treasuries.co)
+* [income.treasuries.co](https://income.treasuries.co)
+* [funding.treasuries.co](https://funding.treasuries.co)
 * [suggestions.treasuries.co](http://suggestions.treasuries.co)
 
-We intend to continue updating these resources with further improvements and any new learnings as we work more with different ecosystems. Any learnings that are generated from completed experiments will be documented and shared across the industry.
+We intend to continue updating these resources with further improvements and any new learnings as we collaborate with different ecosystems across the industry. Any new learnings will be documented and shared across the industry.

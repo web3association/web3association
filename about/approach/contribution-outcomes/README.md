@@ -88,7 +88,7 @@ The [benefits of open source software](https://www.notion.so/o/jOQu4b6VLDxaQsg2r
 
 The [benefits of adopting open source software](open-source-software-overview.md) are numerous and include factors such as helping increase the development speed of teams, flexibility in how they integrate solutions, removing vendor lock ins and increasing the rate of innovation [amongst many other benefits](open-source-software-overview.md).
 
-###
+
 
 ## **Standards**
 

@@ -16,13 +16,13 @@ Fix the incentives through the evolution of treasuries.
 
 🎯 [**Focus**](focus.md)
 
-Our focus is to support existing teams across Web3 ecosystems with improving their treasury systems. We achieve this through the creation and continued improvement of educational resources that help provide insights and actionable information for teams to use when improving their own treasury systems. The Web3 Association is looking to create the industry preferred destination to learn about Web3 treasuries. We're looking to nurture and grow a collaborative effort to bring people together from across the industry to more effectively share knowledge about how treasuries can be approached to more effectively generate impact.
+Our focus is to collaborate with existing teams across Web3 ecosystems and help them with improving their treasury systems. To achieve this we initially have focused on creating educational resources that can provide insights and actionable information about treasury systems could be approached. Over time Web3 Association is looking to create the industry preferred destination to learn about Web3 treasuries. We're now looking to increase the number of experiments that are happening across the industry and to help nurture and grow a collaborative effort that can bring people together from across the industry to more effectively share knowledge and experiment with promising approaches.
 
 
 
 💡 [**Approach**](approach/)
 
-Our core contribution outcome will be the creation of educational resources about treasury systems that provide insightful and actionable information for teams to use when improving their own treasury systems across Web3. A shared learning approach is being adopted that will focus on increasing the amount of collaboration and shared learnings for the benefit of all teams building solutions. Creating educational resources will mean identifying one focus area at a time, inviting collaborators to participate, conducting research and analysis and then making suggestions based upon those findings. Educational resources and content is a core focus for our contribution efforts. Over a longer time horizon there should also be opportunities for us to generate more impact for treasury systems by helping create open source software and supporting any standardisation efforts.
+Our initial contribution outcome focus has been the creation of educational resources about treasury systems. These provide insightful and actionable information about Web3 treasuries that teams can use when improving their own treasury systems. A shared learning approach has been adopted that focuses on increasing the amount of collaboration and shared learnings across the industry. Educational resources have helped to identify promising experiments and learning opportunities which is a large part of our focus moving forward.
 
 
 
@@ -35,12 +35,6 @@ Our current roadmap plan is documented and updated as this changes over time. Th
 :family: [**Contributors**](contributors/)
 
 List of the core contributors involved in the Web3 Association initiative with any contribution history logs.
-
-
-
-:moneybag: [**Funding received**](broken-reference)
-
-Any funding received is detailed here and how it has been allocated. Funding currently is either used for core contribution efforts or supports community incentives.
 
 
 
