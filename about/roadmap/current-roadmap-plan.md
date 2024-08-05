@@ -10,7 +10,7 @@ The Web3 Association is focussed on providing support to existing teams that are
 
 
 
-<figure><img src="../.gitbook/assets/experiments-title.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/experiments-title.png" alt=""><figcaption></figcaption></figure>
 
 Our main current suggestion for experimentation is the adoption of an open source contributor funding process. You can find out more about that here:
 
@@ -22,7 +22,7 @@ Beyond contributor funding processes we are also interested in supporting other 
 
 
 
-<figure><img src="../.gitbook/assets/educational-resources.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/educational-resources.png" alt=""><figcaption></figcaption></figure>
 
 A number of educational resources have already been created:
 

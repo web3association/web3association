@@ -41,7 +41,7 @@ Without any collaborative and supportive structures in place most treasury teams
 
 ## **Shared learning**
 
-<figure><img src="../.gitbook/assets/shared-learning.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/shared-learning.jpg" alt=""><figcaption></figcaption></figure>
 
 A focus on shared learning means increasing the amount of available educational resources available for teams to use when improving and iterating on their own treasury systems. The goal of shared learning is to help maximise collaboration and any learnings made across the industry. This helps increase the rate in which existing treasury systems can be improved and more widely adopted. Educational resources will focus on providing insights and actionable information for each ecosystem so they can more quickly identify ways to improve their treasury system in being able to manage and distribute community assets. Focussing on collaboration and shared learning creates an opportunity to help the wider industry achieve their goals at a faster rate. Our goal is for our educational resources to eventually become the industry preferred location to learn about treasury systems.
 

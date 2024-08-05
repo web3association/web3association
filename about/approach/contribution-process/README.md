@@ -4,11 +4,11 @@ description: >-
   outcomes
 ---
 
-# 🏃♂ Contribution process
+# 🏃‍♂️ Contribution process
 
 The following contribution process outlines the main steps involved for creating the contribution outcomes of educational resources, experiments, open source software and standards. Each step in this process can be started and repeatedly revisited over time as more data and insights emerge. For this contribution process to be truly effective it will also need to have the [right environment](creating-the-right-environment.md) such as one that helps to increase impact alignment, collaboration and participation diversity.&#x20;
 
-<figure><img src="../../.gitbook/assets/contribution-process.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/contribution-process.jpg" alt=""><figcaption></figcaption></figure>
 
 
 
