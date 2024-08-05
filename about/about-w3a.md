@@ -1,5 +1,5 @@
 ---
-description: Overview information about the Web3 Association
+description: Overview about the Web3 Association
 ---
 
 # 👋 About W3A
