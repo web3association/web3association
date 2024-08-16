@@ -1,12 +1,12 @@
 ---
 description: >-
-  Covering why the Web3 Association will solely focus on supporting and
-  improving treasury systems across Web3 ecosystems
+  Why the Web3 Association is focused on supporting and improving treasury
+  systems across Web3 ecosystems
 ---
 
 # 🎯 Focus
 
-The sole focus for the Web3 Association will be the creation of educational resources and content that supports the continued development and improvement of treasury systems across Web3 ecosystems.
+The main focus for the Web3 Association is to help with accelerating the improvement and adoption of Web3 treasury solutions through the creation of educational resources, experiments and open source software.
 
 
 
@@ -20,7 +20,7 @@ Web3 ecosystems have an opportunity to improve and expand on the lessons learnt 
 
 
 
-### **The opportunity to improve treasury systems**
+## **The opportunity to improve treasury systems**
 
 Some simple math can helps to highlight the amount of opportunity there is to create impact through contributions that help improve treasury systems across Web3 ecosystems.
 
