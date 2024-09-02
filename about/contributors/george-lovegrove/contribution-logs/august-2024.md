@@ -47,8 +47,6 @@ Treasury resources
 * [Purpose & responsibilities](https://docs.treasuries.co/treasuries/purpose-and-responsibilities) - Updated
 * [Impact of treasuries](https://docs.treasuries.co/treasuries/impact-of-treasuries) - Updated
 * [Functional processes](https://docs.treasuries.co/treasuries/functional-processes) - Updated
-* [Problems & differences](https://docs.treasuries.co/web3-treasuries/problems-and-differences) - Updated
 * [Opportunities & concerns](https://docs.treasuries.co/web3-treasuries/opportunities-and-concerns) - Updated
-* [Stakeholders](https://docs.treasuries.co/web3-treasuries/stakeholders) - Updated
 * [Operating process ](https://docs.treasuries.co/web3-treasuries/operating-process)- Updated
 * [Funding responsibilities](https://docs.treasuries.co/web3-treasuries/funding-responsibilities) - Updated
