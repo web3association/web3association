@@ -6,6 +6,18 @@ description: Recording of any contribution outputs and efforts in each month
 
 ## 2024
 
+{% content-ref url="november-2024.md" %}
+[november-2024.md](november-2024.md)
+{% endcontent-ref %}
+
+{% content-ref url="october-2024.md" %}
+[october-2024.md](october-2024.md)
+{% endcontent-ref %}
+
+{% content-ref url="september-2024.md" %}
+[september-2024.md](september-2024.md)
+{% endcontent-ref %}
+
 {% content-ref url="august-2024.md" %}
 [august-2024.md](august-2024.md)
 {% endcontent-ref %}

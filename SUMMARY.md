@@ -22,6 +22,8 @@
 * [👨‍👩‍👧‍👦 Contributors](about/contributors/README.md)
   * [🧑 George Lovegrove](about/contributors/george-lovegrove/README.md)
     * [Contribution logs](about/contributors/george-lovegrove/contribution-logs/README.md)
+      * [November 2024](about/contributors/george-lovegrove/contribution-logs/november-2024.md)
+      * [October 2024](about/contributors/george-lovegrove/contribution-logs/october-2024.md)
       * [September 2024](about/contributors/george-lovegrove/contribution-logs/september-2024.md)
       * [August 2024](about/contributors/george-lovegrove/contribution-logs/august-2024.md)
       * [July 2024](about/contributors/george-lovegrove/contribution-logs/july-2024.md)
