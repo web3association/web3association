@@ -40,7 +40,8 @@
       * [August 2023](about/contributors/george-lovegrove/contribution-logs/august-2023.md)
 * [💬 Links & contact information](about/links-and-contact-information.md)
 
-## Educational Resources
+## Our Resources
 
 * [Treasuries](https://treasuries.co)
 * [Contributors](https://contributors.org)
+* [Contributionism](https://contributionism.co)
