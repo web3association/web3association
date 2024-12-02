@@ -1,13 +1,8 @@
 # Table of contents
 
-## Services
-
-* [👤 Contributor funding operator](README.md)
-* [✏️ Web3 treasury consulting](services/web3-treasury-consulting.md)
-
 ## About
 
-* [👋 About W3A](about/about-w3a.md)
+* [👋 About W3A](README.md)
 * [🎯 Focus](about/focus.md)
 * [💡 Approach](about/approach/README.md)
   * [🎓 Shared learning](about/approach/shared-learning.md)
@@ -39,6 +34,11 @@
       * [September 2023](about/contributors/george-lovegrove/contribution-logs/september-2023.md)
       * [August 2023](about/contributors/george-lovegrove/contribution-logs/august-2023.md)
 * [💬 Links & contact information](about/links-and-contact-information.md)
+
+## Services
+
+* [👤 Contributor funding operator](<README (1).md>)
+* [✏️ Web3 treasury consulting](services/web3-treasury-consulting.md)
 
 ## Our Resources
 

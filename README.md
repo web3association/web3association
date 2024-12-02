@@ -1,17 +1,43 @@
 ---
-description: Contributor funding operator services
+description: Overview about the Web3 Association
 ---
 
-# 👤 Contributor funding operator
+# 👋 About W3A
 
-<figure><img src=".gitbook/assets/funding-operator-header.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/web3-association-title.png" alt=""><figcaption></figcaption></figure>
 
-Our [funding analysis](https://app.gitbook.com/o/jOQu4b6VLDxaQsg2rVwG/s/8L61e8ulVlk90t5mlQk1/) helped to highlight the opportunity for Web3 ecosystems to experiment with a contributor funding process.
 
-A [open source contributor funding ](https://app.gitbook.com/s/Zzfl1XcpAphbCFDyUysC/proposal/open-source-contributors)proposal has been shared publicly to highlight the advantages of this suggested funding process.&#x20;
 
-The objectives, development roadmap and setup process for trialling a [contributor funding process](https://app.gitbook.com/s/MknWvDkc5shALcb0cpEH/contributor-funding-experiment) has  been documented. An [example contributor funding process](https://app.gitbook.com/o/jOQu4b6VLDxaQsg2rVwG/s/ZE8rIZvI1VylVcwzSPzR/) resource is also available to showcase what the process could look like in practice.
+⭐ **Mission**
 
-Our suggested contributor funding experiment would cost less than $10,000 to operate and execute from start to finish. This costing includes any usage of tools and services as well as the [funding operator contribution costs](https://funding.contributors.org/contributor-funding-experiment/experiment-setup/time-and-cost-estimates).
+Fixing the incentives with Web3.&#x20;
 
-If you're interested in running a contributor funding experiment please[ reach out to us](about/links-and-contact-information.md) at any time.
+
+
+🎯 [**Focus**](about/focus.md)
+
+We think about incentives, governance and economics. We analyse treasuries, funding processes, organisations and money. Our focus is to collaborate with existing teams across Web3 ecosystems and help them with improving their treasuries, funding processes, governance, organisations and money. We create educational resources that provide insightful and actionable information about these systems and how they could be approached. Over time Web3 Association is looking to create the industry preferred destination to learn about Web3 treasuries and funding processes. We actively look to help with starting experiments and collaborations that can generate new learnings that can improve the Web3 industry.
+
+
+
+💡 [**Approach**](about/approach/)
+
+Our initial contribution outcome focus has been the creation of educational resources about treasury and funding systems. These provide insightful and actionable information about Web3 treasuries that teams can use when improving their own treasury systems. A shared learning approach has been adopted that focuses on increasing the amount of collaboration and shared learnings across the industry. Educational resources have helped to identify promising experiments and learning opportunities which is a large part of our focus moving forward.
+
+
+
+🗺️ [**Roadmap**](about/roadmap/)
+
+Our current roadmap plan is documented and updated as this changes over time. The other potential areas of focus are also listed to give a better idea of the areas of work that could be suitable in the future.
+
+
+
+:family: [**Contributors**](about/contributors/)
+
+List of the core contributors involved in the Web3 Association initiative with any contribution history logs.
+
+
+
+💬 [**Links & contact information**](about/links-and-contact-information.md)
+
+All of the online profiles for Web3 Association and some contact information

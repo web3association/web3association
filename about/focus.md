@@ -6,7 +6,7 @@ description: >-
 
 # 🎯 Focus
 
-The main focus for the Web3 Association is to help with accelerating the improvement and adoption of Web3 treasury solutions through the creation of educational resources, experiments and open source software.
+The main focus for the Web3 Association in the short term has been to help with accelerating the improvement and adoption of Web3 treasury solutions through the creation of educational resources, experiments and open source software.
 
 
 
