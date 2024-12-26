@@ -28,8 +28,8 @@ description: Contributions for March 2024
 
 Income resources
 
-* [Income approaches](https://income.treasuries.co/approaches/income-approaches)
-* [Transaction fee approaches](https://income.treasuries.co/approaches/transaction-fee-approaches)
+* [Income approaches](https://income.treasuries.io/approaches/income-approaches)
+* [Transaction fee approaches](https://income.treasuries.io/approaches/transaction-fee-approaches)
 
 
 
@@ -45,4 +45,4 @@ Contributor proposal videos
 
 **Systems & operation**
 
-* [income.treasuries.co](https://income.treasuries.co) - Setup GitBook resource page
+* [income.treasuries.co](https://income.treasuries.io) - Setup GitBook resource page
