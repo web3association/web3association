@@ -25,12 +25,12 @@ description: Contributions for October 2023
 
 Disbursement resources
 
-* [Proposal submission incentive approaches](https://disbursement.treasuries.co/incentives/proposal-submission-incentive-approaches)
-* [Execution incentive approaches](https://disbursement.treasuries.co/incentives/execution-incentive-approaches)
-* [Knowledge incentives](https://disbursement.treasuries.co/knowledge/knowledge-incentives)
-* [Priority incentives](https://disbursement.treasuries.co/priorities/priority-incentives)
-* [Idea incentives](https://disbursement.treasuries.co/ideas/idea-incentives)
-* [Execution incentives](https://disbursement.treasuries.co/execution/execution-incentives)
-* [Approaches for handling idea costs](https://disbursement.treasuries.co/ideas/approaches-for-handling-idea-costs)
-* [Disbursement approaches](https://disbursement.treasuries.co/disbursement-process/disbursement-approaches) - Updated
-  * [Approaches for developing knowledge sources](https://disbursement.treasuries.co/disbursement-process/disbursement-approaches/approaches-for-developing-knowledge-sources)
+* [Proposal submission incentive approaches](https://disbursement.treasuries.io/incentives/proposal-submission-incentive-approaches)
+* [Execution incentive approaches](https://disbursement.treasuries.io/incentives/execution-incentive-approaches)
+* [Knowledge incentives](https://disbursement.treasuries.io/knowledge/knowledge-incentives)
+* [Priority incentives](https://disbursement.treasuries.io/priorities/priority-incentives)
+* [Idea incentives](https://disbursement.treasuries.io/ideas/idea-incentives)
+* [Execution incentives](https://disbursement.treasuries.io/execution/execution-incentives)
+* [Approaches for handling idea costs](https://disbursement.treasuries.io/ideas/approaches-for-handling-idea-costs)
+* [Disbursement approaches](https://disbursement.treasuries.io/disbursement-process/disbursement-approaches) - Updated
+  * [Approaches for developing knowledge sources](https://disbursement.treasuries.io/disbursement-process/disbursement-approaches/approaches-for-developing-knowledge-sources)
