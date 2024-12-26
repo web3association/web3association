@@ -42,6 +42,6 @@
 
 ## Our Resources
 
-* [Treasuries](https://treasuries.co)
+* [Treasuries](https://treasuries.io)
 * [Contributors](https://contributors.org)
-* [Contributionism](https://contributionism.co)
+* [Contributionism](https://contributionism.io)
