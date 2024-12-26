@@ -26,20 +26,20 @@ description: Contributions for April 2024
 
 Disbursement resources
 
-* [Contribution verification](https://disbursement.treasuries.co/contributions/contribution-verification)
-  * [Current landscape](https://disbursement.treasuries.co/contributions/contribution-verification/current-landscape)
-  * [Recording & measuring contribution efforts](https://disbursement.treasuries.co/contributions/contribution-verification/recording-and-measuring-contribution-efforts)
-  * [Individual monthly contribution logs](https://disbursement.treasuries.co/contributions/contribution-verification/individual-monthly-contribution-logs)
-* [Contribution verification approaches](https://disbursement.treasuries.co/approaches/contribution-verification-approaches) - Updated
+* [Contribution verification](https://disbursement.treasuries.io/contributions/contribution-verification)
+  * [Current landscape](https://disbursement.treasuries.io/contributions/contribution-verification/current-landscape)
+  * [Recording & measuring contribution efforts](https://disbursement.treasuries.io/contributions/contribution-verification/recording-and-measuring-contribution-efforts)
+  * [Individual monthly contribution logs](https://disbursement.treasuries.io/contributions/contribution-verification/individual-monthly-contribution-logs)
+* [Contribution verification approaches](https://disbursement.treasuries.io/approaches/contribution-verification-approaches) - Updated
 
 Treasury resources
 
-* [Idea token vs contributor network funding](https://docs.treasuries.co/funding/idea-token-vs-contributor-network-funding)
-  * [Circular economy ideas](https://docs.treasuries.co/funding/idea-token-vs-contributor-network-funding/circular-economy-ideas) - Updated
-  * [Web2 protocol & software library examples](https://docs.treasuries.co/funding/idea-token-vs-contributor-network-funding/web2-protocols-and-software-library-examples) - Updated
-  * [Ecosystem funding factors for consideration](https://docs.treasuries.co/funding/idea-token-vs-contributor-network-funding/ecosystem-funding-factors-for-consideration)
-  * [Idea token funding](https://docs.treasuries.co/funding/idea-token-vs-contributor-network-funding/idea-token-funding)
-  * [Contributor network funding](https://docs.treasuries.co/funding/idea-token-vs-contributor-network-funding/contributor-network-funding)
+* [Idea token vs contributor network funding](https://docs.treasuries.io/funding/idea-token-vs-contributor-network-funding)
+  * [Circular economy ideas](https://docs.treasuries.io/funding/idea-token-vs-contributor-network-funding/circular-economy-ideas) - Updated
+  * [Web2 protocol & software library examples](https://docs.treasuries.io/funding/idea-token-vs-contributor-network-funding/web2-protocols-and-software-library-examples) - Updated
+  * [Ecosystem funding factors for consideration](https://docs.treasuries.io/funding/idea-token-vs-contributor-network-funding/ecosystem-funding-factors-for-consideration)
+  * [Idea token funding](https://docs.treasuries.io/funding/idea-token-vs-contributor-network-funding/idea-token-funding)
+  * [Contributor network funding](https://docs.treasuries.io/funding/idea-token-vs-contributor-network-funding/contributor-network-funding)
 
 
 
