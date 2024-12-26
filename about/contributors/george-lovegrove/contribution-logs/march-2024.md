@@ -45,4 +45,4 @@ Contributor proposal videos
 
 **Systems & operation**
 
-* [income.treasuries.co](https://income.treasuries.io) - Setup GitBook resource page
+* [income.treasuries.io](https://income.treasuries.io) - Setup GitBook resource page
