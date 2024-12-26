@@ -64,5 +64,5 @@ General updates
 
 **Systems & operation**
 
-* [web3association.co](https://web3association.co) - Added website overview
-* [treasuries.co](https://treasuries.co) - Added website overview
+* [web3association.co](https://web3association.io) - Added website overview
+* [treasuries.co](https://treasuries.io) - Added website overview
