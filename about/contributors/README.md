@@ -4,7 +4,7 @@ description: >-
   outcomes
 ---
 
-# 👨👩👧👦 Contributors
+# 👨‍👩‍👧‍👦 Contributors
 
 ## Current contributors
 
@@ -18,4 +18,4 @@ description: >-
 
 We're always looking for contributors who want to help with our deep research and analysis resources about treasury systems.
 
-If you would like to help make contributions to this work and join the efforts please reach out to us by email (hello@web3association.co) or in our [Telegram](https://t.me/W3Association) chat.
+If you would like to help make contributions to this work and join the efforts please reach out to us by email (hello@web3association.io) or in our [Telegram](https://t.me/W3Association) chat.

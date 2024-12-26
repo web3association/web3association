@@ -22,8 +22,8 @@ description: Contributions for November 2024
 
 Economic model resources
 
-* [Critiques of capitalism](https://docs.contributionism.co/contributionism/critiques-of-capitalism)
-  * [Understanding capitalism](https://docs.contributionism.co/contributionism/critiques-of-capitalism/understanding-capitalism)
+* [Critiques of capitalism](https://docs.contributionism.io/contributionism/critiques-of-capitalism)
+  * [Understanding capitalism](https://docs.contributionism.io/contributionism/critiques-of-capitalism/understanding-capitalism)
   * [Flawed justifications for unfair contribution treatment](https://docs.contributionism.co/contributionism/critiques-of-capitalism/flawed-justifications-for-unfair-contribution-treatment)
   * [Contributions are not respected](https://docs.contributionism.co/contributionism/critiques-of-capitalism/contributions-are-not-respected)
   * [Flawed share governance and incentive rights](https://docs.contributionism.co/contributionism/critiques-of-capitalism/flawed-share-governance-and-incentive-rights)
