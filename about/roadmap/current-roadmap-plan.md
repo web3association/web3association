@@ -14,7 +14,7 @@ The Web3 Association is focussed on providing support to existing teams that are
 
 Our main current suggestion for experimentation is the adoption of an open source contributor funding process. You can find out more about that here:
 
-* [docs.contributors.org](https://docs.contributors.org)
+* [docs.contributors.org](https://app.gitbook.com/o/jOQu4b6VLDxaQsg2rVwG/s/Zzfl1XcpAphbCFDyUysC/)
 
 We’re particularly interested in supporting experiments that are focused on funding contributors in their ecosystems to work on impactful initiatives. Open source contributors is one of those suggested funding processes.
 
@@ -26,9 +26,9 @@ Beyond contributor funding processes we are also interested in supporting other 
 
 A number of educational resources have already been created:
 
-* [docs.treasuries.co](http://docs.treasuries.co)
-* [income.treasuries.co](https://income.treasuries.co)
-* [funding.treasuries.co](https://funding.treasuries.co)
-* [suggestions.treasuries.co](http://suggestions.treasuries.co)
+* [docs.treasuries.io](https://app.gitbook.com/o/jOQu4b6VLDxaQsg2rVwG/s/qIN4B3DGHPqKOl7e6VuV/)
+* [income.treasuries.io](https://app.gitbook.com/o/jOQu4b6VLDxaQsg2rVwG/s/ZoHfKJYKPW9AnonUHAUO/)
+* [funding.treasuries.io](https://app.gitbook.com/o/jOQu4b6VLDxaQsg2rVwG/s/8L61e8ulVlk90t5mlQk1/)
+* [suggestions.treasuries.io](https://app.gitbook.com/o/jOQu4b6VLDxaQsg2rVwG/s/Ukt8Fg94mYDaa1gNVCJq/)
 
 We intend to continue updating these resources with further improvements and any new learnings as we collaborate with different ecosystems across the industry. Any new learnings will be documented and shared across the industry.
