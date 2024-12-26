@@ -61,4 +61,4 @@ General updates
 
 **Systems & operation**
 
-* [suggestions.treasuries.co](https://suggestions.treasuries.io/) - Setup documentation for treasury suggestions
+* [suggestions.treasuries.io](https://suggestions.treasuries.io/) - Setup documentation for treasury suggestions
