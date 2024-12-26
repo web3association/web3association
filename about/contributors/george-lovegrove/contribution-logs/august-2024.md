@@ -44,9 +44,9 @@ Contributor funding experiment example
 
 Treasury resources
 
-* [Purpose & responsibilities](https://docs.treasuries.co/treasuries/purpose-and-responsibilities) - Updated
-* [Impact of treasuries](https://docs.treasuries.co/treasuries/impact-of-treasuries) - Updated
-* [Functional processes](https://docs.treasuries.co/treasuries/functional-processes) - Updated
-* [Opportunities & concerns](https://docs.treasuries.co/web3-treasuries/opportunities-and-concerns) - Updated
-* [Operating process ](https://docs.treasuries.co/web3-treasuries/operating-process)- Updated
-* [Funding responsibilities](https://docs.treasuries.co/web3-treasuries/funding-responsibilities) - Updated
+* [Purpose & responsibilities](https://docs.treasuries.io/treasuries/purpose-and-responsibilities) - Updated
+* [Impact of treasuries](https://docs.treasuries.io/treasuries/impact-of-treasuries) - Updated
+* [Functional processes](https://docs.treasuries.io/treasuries/functional-processes) - Updated
+* [Opportunities & concerns](https://docs.treasuries.io/web3-treasuries/opportunities-and-concerns) - Updated
+* [Operating process ](https://docs.treasuries.io/web3-treasuries/operating-process)- Updated
+* [Funding responsibilities](https://docs.treasuries.io/web3-treasuries/funding-responsibilities) - Updated
