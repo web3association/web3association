@@ -46,5 +46,5 @@ Disbursement resources
 
 **Systems & operation**
 
-* [treasuries.co](http://treasuries.io) - Setup GitBook documentation website for general treasury educational resources
-* [disbursement.treasuries.co](https://disbursement.treasuries.io/) - Setup GitBook documentation for disbursement educational resources
+* [treasuries.io](http://treasuries.io) - Setup GitBook documentation website for general treasury educational resources
+* [disbursement.treasuries.io](https://disbursement.treasuries.io/) - Setup GitBook documentation for disbursement educational resources
