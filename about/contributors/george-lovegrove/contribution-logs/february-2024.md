@@ -28,13 +28,13 @@ description: Contributions for February 2024
 
 Treasury resources
 
-* [Misaligned, partially aligned and fully aligned incentives](https://docs.treasuries.co/incentives/misaligned-partially-aligned-and-fully-aligned-incentives)
-* [Project token vs base network circular economies](https://docs.treasuries.co/incentives/project-token-vs-base-network-circular-economies)
-* [Treasury funding responsibilities](https://docs.treasuries.co/web3-treasuries/funding-responsibilities)&#x20;
+* [Misaligned, partially aligned and fully aligned incentives](https://docs.treasuries.io/incentives/misaligned-partially-aligned-and-fully-aligned-incentives)
+* [Project token vs base network circular economies](https://docs.treasuries.io/incentives/project-token-vs-base-network-circular-economies)
+* [Treasury funding responsibilities](https://docs.treasuries.io/web3-treasuries/funding-responsibilities)&#x20;
 
 Disbursement resources
 
-* [Self sovereign identity opportunities](https://disbursement.treasuries.co/contributors/self-sovereign-identity-opportunities)&#x20;
+* [Self sovereign identity opportunities](https://disbursement.treasuries.io/contributors/self-sovereign-identity-opportunities)&#x20;
 
 Contributor resources
 
