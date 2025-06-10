@@ -42,6 +42,7 @@
 
 ## Our Resources
 
+* [Web3 Economy](https://web3economy.io/)
 * [Treasuries](https://treasuries.io)
 * [Contributors](https://contributors.org)
 * [Contributionism](https://contributionism.io)
