@@ -40,7 +40,7 @@
 * [👤 Contributor funding operator](<README (1).md>)
 * [✏️ Web3 treasury consulting](services/web3-treasury-consulting.md)
 
-## Our Resources
+## Educational Resources
 
 * [Web3 Economy](https://web3economy.io/)
 * [Treasuries](https://treasuries.io)
