@@ -29,6 +29,9 @@ A number of educational resources have already been created:
 * [docs.treasuries.io](https://app.gitbook.com/o/jOQu4b6VLDxaQsg2rVwG/s/qIN4B3DGHPqKOl7e6VuV/)
 * [income.treasuries.io](https://app.gitbook.com/o/jOQu4b6VLDxaQsg2rVwG/s/ZoHfKJYKPW9AnonUHAUO/)
 * [funding.treasuries.io](https://app.gitbook.com/o/jOQu4b6VLDxaQsg2rVwG/s/8L61e8ulVlk90t5mlQk1/)
-* [suggestions.treasuries.io](https://app.gitbook.com/o/jOQu4b6VLDxaQsg2rVwG/s/Ukt8Fg94mYDaa1gNVCJq/)
+* [governance.treasuries.io](https://app.gitbook.com/o/jOQu4b6VLDxaQsg2rVwG/s/hF4E7bptYBBLKtLpZZmT/)
+* [docs.contributionism.io](https://app.gitbook.com/o/jOQu4b6VLDxaQsg2rVwG/s/gtoyGGxfC43TClPtgqux/)
+* [web3economy.io](https://app.gitbook.com/o/jOQu4b6VLDxaQsg2rVwG/s/7sWb1PnaeuxJgiv6Qz4a/)
+* [money.web3economy.io](https://app.gitbook.com/o/jOQu4b6VLDxaQsg2rVwG/s/xwjyaRb9UzRquIkd6xoH/)
 
 We intend to continue updating these resources with further improvements and any new learnings as we collaborate with different ecosystems across the industry. Any new learnings will be documented and shared across the industry.
