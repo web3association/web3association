@@ -4,7 +4,41 @@ description: Recording of any contribution outputs and efforts in each month
 
 # Contribution logs
 
+## 2025
+
+{% content-ref url="july-2025.md" %}
+[july-2025.md](july-2025.md)
+{% endcontent-ref %}
+
+{% content-ref url="june-2025.md" %}
+[june-2025.md](june-2025.md)
+{% endcontent-ref %}
+
+{% content-ref url="may-2025.md" %}
+[may-2025.md](may-2025.md)
+{% endcontent-ref %}
+
+{% content-ref url="april-2025.md" %}
+[april-2025.md](april-2025.md)
+{% endcontent-ref %}
+
+{% content-ref url="march-2025.md" %}
+[march-2025.md](march-2025.md)
+{% endcontent-ref %}
+
+{% content-ref url="february-2025.md" %}
+[february-2025.md](february-2025.md)
+{% endcontent-ref %}
+
+{% content-ref url="january-2025.md" %}
+[january-2025.md](january-2025.md)
+{% endcontent-ref %}
+
 ## 2024
+
+{% content-ref url="december-2024.md" %}
+[december-2024.md](december-2024.md)
+{% endcontent-ref %}
 
 {% content-ref url="november-2024.md" %}
 [november-2024.md](november-2024.md)
