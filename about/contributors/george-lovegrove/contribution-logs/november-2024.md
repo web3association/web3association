@@ -4,19 +4,14 @@ description: Contributions for November 2024
 
 # November 2024
 
-**Contribution duration** - Full month (So far)
-
-
+**Contribution duration** - Full month
 
 ## Overview
 
 * Economic model - Finished the first version of the economic model called contributionism
-
-
+* Economic theory - Started learning about different economic theories such as Georgism and Gesselism.
 
 ## Contribution outputs
-
-
 
 **Documents**
 
