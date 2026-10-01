@@ -4,6 +4,8 @@ description: Recording of any contribution outputs and efforts in each month
 
 # Contribution logs
 
+The creation of contribution logs has been paused for the moment.
+
 ## 2025
 
 {% content-ref url="july-2025.md" %}
